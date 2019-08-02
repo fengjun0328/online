@@ -1,112 +1,112 @@
 package cn.bdqn.service;
 
-import java.util.Scanner;
-
 import cn.bdqn.pojo.Menu;
 import cn.bdqn.pojo.Order;
 
+import java.util.Scanner;
+
 public class OrderService {
-	Order [] orders=new Order[4];//±£´æ¶©µ¥ÐÅÏ¢
-	Menu [] menus=new Menu[3]; //±£´æ²ËÆ·ÐÅÏ¢
+	Order [] orders=new Order[4];//ï¿½ï¿½ï¿½æ¶©ï¿½ï¿½ï¿½ï¿½Ï¢
+	Menu [] menus=new Menu[3]; //ï¿½ï¿½ï¿½ï¿½ï¿½Æ·ï¿½ï¿½Ï¢
 	Scanner input=new Scanner(System.in);
 
 
 	/**
-	 * ¶©µ¥µÄ³õÊ¼»¯µÄ·½·¨
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½Ä³ï¿½Ê¼ï¿½ï¿½ï¿½Ä·ï¿½ï¿½ï¿½
 	 */
 	public void orderInit(){
 		Order order=new Order();
-		order.address="¶«Ý¸½ðÂë";
-		order.dishMeg="ºìÉÕ´øÓã2·Ý";
-		order.name="ÕÔÃçÃç";
+		order.address="ï¿½ï¿½Ý¸ï¿½ï¿½ï¿½ï¿½";
+		order.dishMeg="ï¿½ï¿½ï¿½Õ´ï¿½ï¿½ï¿½2ï¿½ï¿½";
+		order.name="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
 		order.state=1;
 		order.sumPrice=30;
 		order.time=13;
 		orders[0]=order;
-		orders[1]=new Order("ÖìÑÅÖ¥", "ºìÉÕÓã3·Ý", 13, "¶«Ý¸", 0, 45);
+		orders[1]=new Order("ï¿½ï¿½ï¿½ï¿½Ö¥", "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½3ï¿½ï¿½", 13, "ï¿½ï¿½Ý¸", 0, 45);
 	}
 	/**
-	 * ²ËÆ·µ¥³õÊ¼»¯
+	 * ï¿½ï¿½Æ·ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½
 	 */
 
 	public void menuInit(){
-		menus[0]=new Menu("ºìÉÕÓã",15,0);
-		menus[1]=new Menu("ºìÉÕ´øÓã ",15,0);
-		menus[2]=new Menu("Ê±ÁîÊß²Ë ",10,0);
+		menus[0]=new Menu("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",15,0);
+		menus[1]=new Menu("ï¿½ï¿½ï¿½Õ´ï¿½ï¿½ï¿½ ",15,0);
+		menus[2]=new Menu("Ê±ï¿½ï¿½ï¿½ß²ï¿½ ",10,0);
 	}
 
 
 	/**
-	 * ¿ªÊ¼²Ëµ¥µÄ·½·¨
+	 * ï¿½ï¿½Ê¼ï¿½Ëµï¿½ï¿½Ä·ï¿½ï¿½ï¿½
 	 */
 	public void startMenu(){
 		boolean isExit=false;
-		System.out.println("\n»¶Ó­Ê¹ÓÃ¡°³Ô»õÁªÃË¶©²ÍÏµÍ³¡±");
+		System.out.println("\nï¿½ï¿½Ó­Ê¹ï¿½Ã¡ï¿½ï¿½Ô»ï¿½ï¿½ï¿½ï¿½Ë¶ï¿½ï¿½ï¿½ÏµÍ³ï¿½ï¿½");
 		do{
 			isExit=false;
 			System.out.println("****************************");
-			System.out.println("1¡¢ÎÒÒª¶©²Í");
-			System.out.println("2¡¢²é¿´²Í´ü");
-			System.out.println("3¡¢Ç©ÊÕ¶©µ¥");
-			System.out.println("4¡¢É¾³ý¶©µ¥");
-			System.out.println("5¡¢ÎÒÒªµãÔÞ");
-			System.out.println("6¡¢ÍË³öÏµÍ³");
+			System.out.println("1ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½");
+			System.out.println("2ï¿½ï¿½ï¿½é¿´ï¿½Í´ï¿½");
+			System.out.println("3ï¿½ï¿½Ç©ï¿½Õ¶ï¿½ï¿½ï¿½");
+			System.out.println("4ï¿½ï¿½É¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+			System.out.println("5ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½");
+			System.out.println("6ï¿½ï¿½ï¿½Ë³ï¿½ÏµÍ³");
 			System.out.println("****************************");
-			System.out.print("ÇëÑ¡Ôñ£º");
-			int choose = input.nextInt(); // ¼ÇÂ¼ÓÃ»§Ñ¡ÔñµÄ¹¦ÄÜ±àºÅ
+			System.out.print("ï¿½ï¿½Ñ¡ï¿½ï¿½");
+			int choose = input.nextInt(); // ï¿½ï¿½Â¼ï¿½Ã»ï¿½Ñ¡ï¿½ï¿½Ä¹ï¿½ï¿½Ü±ï¿½ï¿½
 			switch (choose) {
 			case 1:
-				System.out.println("ÎÒÒª¶©²Í");
+				System.out.println("ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½");
 				add();
 				break;
 			case 2:
-				System.out.println("²é¿´²Í´ü");
+				System.out.println("ï¿½é¿´ï¿½Í´ï¿½");
 				show();
 				break;
 			case 3:
-				System.out.println("Ç©ÊÕ¶©µ¥");
+				System.out.println("Ç©ï¿½Õ¶ï¿½ï¿½ï¿½");
 				show();
-				System.out.println("ÇëÑ¡Ôñ£º");
+				System.out.println("ï¿½ï¿½Ñ¡ï¿½ï¿½");
 				int updateId=input.nextInt();
 				int result_=updateOrder(updateId);
 				if(result_>0){
-					System.out.println("Ç©µ¥³É¹¦");
+					System.out.println("Ç©ï¿½ï¿½ï¿½É¹ï¿½");
 				}else{
-					System.out.println("¶©µ¥Íê³É²»ÐèÒªÇ©µ¥");
+					System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É²ï¿½ï¿½ï¿½ÒªÇ©ï¿½ï¿½");
 				}
 				break;
 			case 4:
-				System.out.println("É¾³ý¶©µ¥");
+				System.out.println("É¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 				show();
-				System.out.println("ÇëÑ¡Ôñ£º");
+				System.out.println("ï¿½ï¿½Ñ¡ï¿½ï¿½");
 				int delId=input.nextInt();
 				int result=delOrder(delId);
 				if(result>0){
-					System.out.println("É¾³ý³É¹¦");
+					System.out.println("É¾ï¿½ï¿½ï¿½É¹ï¿½");
 				}else{
-					System.out.println("¶©µ¥Ã»ÓÐÍê³É");
+					System.out.println("ï¿½ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½");
 				}
 				
 				break;
 			case 5:
-				System.out.println("ÎÒÒªµãÔÞ");
+				System.out.println("ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½");
 				showMenu();
-				System.out.println("ÇëÑ¡Ôñ£º");
+				System.out.println("ï¿½ï¿½Ñ¡ï¿½ï¿½");
 				int menuId=input.nextInt();
 				dianZan(menuId);
 				break;
 			case 6:
-				System.out.println("ÍË³öÏµÍ³");
+				System.out.println("ï¿½Ë³ï¿½ÏµÍ³");
 				System.exit(0);
 				break;
 
 			default:
-				System.out.println("ÊäÈëÓÐÎó£¬·µ»ØÖ÷²Ëµ¥");
+				System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó£¬·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ëµï¿½");
 				isExit=true;
 				break;
 			}
 			if(!isExit){
-				System.out.println("°´0·µ»Ø");
+				System.out.println("ï¿½ï¿½0ï¿½ï¿½ï¿½ï¿½");
 				int num=input.nextInt();
 				if(num==0){
 					isExit=true;
@@ -116,7 +116,7 @@ public class OrderService {
 		}while(isExit);
 	}
 	/**
-	 * Ç©µ¥µÄ·½·¨
+	 * Ç©ï¿½ï¿½ï¿½Ä·ï¿½ï¿½ï¿½
 	 * @param updateId
 	 * @return
 	 */
@@ -130,18 +130,18 @@ public class OrderService {
 		return -1;
 	}
 	/**
-	 * ²é¿´µÄ·½·¨
+	 * ï¿½é¿´ï¿½Ä·ï¿½ï¿½ï¿½
 	 */
 	public void show(){
-		System.out.println("ÐòºÅ\tÐÕÃû\tÃèÊö\t×Ü¼Û\tÊ±¼ä\tµØÖ·\tÍê³É×´Ì¬");
+		System.out.println("ï¿½ï¿½ï¿½\tï¿½ï¿½ï¿½ï¿½\tï¿½ï¿½ï¿½ï¿½\tï¿½Ü¼ï¿½\tÊ±ï¿½ï¿½\tï¿½ï¿½Ö·\tï¿½ï¿½ï¿½×´Ì¬");
 		for (int i = 0; i < orders.length; i++) {
 			if(orders[i]!=null){
 				//				orders[i].show();
 				String status="";
 				if(orders[i].state==0){
-					status="ÒÑÔ¤¶¨";
+					status="ï¿½ï¿½Ô¤ï¿½ï¿½";
 				}else{
-					status="ÒÑÍê³É";
+					status="ï¿½ï¿½ï¿½ï¿½ï¿½";
 				}
 				System.out.println((i+1)+"\t"+orders[i].name+"\t"+
 						orders[i].dishMeg+"\t"+orders[i].sumPrice
@@ -151,7 +151,7 @@ public class OrderService {
 	}
 	
 	/**
-	 * Ìí¼ÓµÄ·½·¨   true  Îª³É¹¦ ·´Ö®
+	 * ï¿½ï¿½ÓµÄ·ï¿½ï¿½ï¿½   true  Îªï¿½É¹ï¿½ ï¿½ï¿½Ö®
 	 * @param order
 	 * @return
 	 */
@@ -166,7 +166,7 @@ public class OrderService {
 	}
 	
 	/**
-	 * Ìí¼ÓÄ£¿éµÄ·½·¨
+	 * ï¿½ï¿½ï¿½Ä£ï¿½ï¿½Ä·ï¿½ï¿½ï¿½
 	 */
 	public void add(){
 		boolean isExit=false;
@@ -177,38 +177,38 @@ public class OrderService {
 			}
 		}
 		if(!isExit){
-			System.out.println("²Í´øÂúÁË²»ÄÜµã");
+			System.out.println("ï¿½Í´ï¿½ï¿½ï¿½ï¿½Ë²ï¿½ï¿½Üµï¿½");
 			return;
 		}
 		Order order=new Order();
-		System.out.println("ÊäÈëÃû×Ö£º");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½");
 		order.name=input.next();
 		showMenu();
-		System.out.println("ÇëÑ¡ÔñÄãµãµÄ²ËÆ·£º");
+		System.out.println("ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½ï¿½ï¿½Ä²ï¿½Æ·ï¿½ï¿½");
 		int choose=input.nextInt();
 		while(choose>menus.length||choose<1){
-			System.out.println("Ã»ÓÐÕâ¸ö²Ë£¬ÖØÐÂµã");
+			System.out.println("Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë£ï¿½ï¿½ï¿½ï¿½Âµï¿½");
 			choose=input.nextInt();
 		}
-		System.out.println("ÄãÒª¼¸·Ý£º");
+		System.out.println("ï¿½ï¿½Òªï¿½ï¿½ï¿½Ý£ï¿½");
 		int number=input.nextInt();
-		System.out.println("ÊäÈëÊ±¼ä10-24µÄÕûÊý£º");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½10-24ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 		order.time=input.nextInt();
 		while(order.time<10||order.time>24){
-			System.out.println("ÊäÈë´íÎó£¬ÊäÈëÊ±¼ä10-24µÄÕûÊý£º");
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½10-24ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 			order.time=input.nextInt();
 		}
-		System.out.println("ÊäÈëµØÖ·£º");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½");
 		order.address=input.next();
-		//¶©µ¥ÃèÊö
-		order.dishMeg=menus[choose-1].dishName+number+"·Ý";
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		order.dishMeg=menus[choose-1].dishName+number+"ï¿½ï¿½";
 		order.sumPrice=menus[choose-1].price*number;
 		if(order.sumPrice<50){
-			order.sumPrice+=6;//Ð¡ÓÚ50Ôª¼ÓÊÕÔË·Ñ
+			order.sumPrice+=6;//Ð¡ï¿½ï¿½50Ôªï¿½ï¿½ï¿½ï¿½ï¿½Ë·ï¿½
 		}
 		boolean isRight=addOrder(order);
 		if(isRight){
-			System.out.println("µã²Í³É¹¦");
+			System.out.println("ï¿½ï¿½Í³É¹ï¿½");
 		}
 		
 	}
@@ -216,7 +216,7 @@ public class OrderService {
 	
 	
 	/**
-	 * É¾³ýµÄ·½·¨
+	 * É¾ï¿½ï¿½ï¿½Ä·ï¿½ï¿½ï¿½
 	 * @param delId
 	 * @return
 	 */
@@ -231,10 +231,10 @@ public class OrderService {
 		return -1;
 	}
 	/**
-	 * ²ËÆ·ÏÔÊ¾µÄ·½·¨
+	 * ï¿½ï¿½Æ·ï¿½ï¿½Ê¾ï¿½Ä·ï¿½ï¿½ï¿½
 	 */
 	public void showMenu(){
-		System.out.println("ÐòºÅ\t²ËÃû\tµ¥¼Û\tµãÔÞ");
+		System.out.println("ï¿½ï¿½ï¿½\tï¿½ï¿½ï¿½ï¿½\tï¿½ï¿½ï¿½ï¿½\tï¿½ï¿½ï¿½ï¿½");
 		for (int i = 0; i < menus.length; i++) {
 			if(menus[i]!=null){
 				System.out.println((i+1)+"\t"+menus[i].dishName+"\t"+menus[i].price+"\t"+menus[i].praiseNum);
@@ -244,7 +244,7 @@ public class OrderService {
 	
 	
 	/**
-	 * µãÔÞµÄ·½·¨
+	 * ï¿½ï¿½ï¿½ÞµÄ·ï¿½ï¿½ï¿½
 	 * @param menuId
 	 */
 	public void dianZan(int menuId){

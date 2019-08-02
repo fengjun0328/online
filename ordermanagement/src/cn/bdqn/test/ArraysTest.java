@@ -1,7 +1,5 @@
 package cn.bdqn.test;
 
-import java.util.Arrays;
-
 public class ArraysTest {
 
 	public static void main(String[] args) {
@@ -10,14 +8,14 @@ public class ArraysTest {
 		/*int[] nums={1,3,5,7,9,10,0};
 		int index=nums.length-1;
 		int number=6;
-		//ÕÒÎ»ÖÃ
+		//ï¿½ï¿½Î»ï¿½ï¿½
 		for (int i = 0; i < nums.length; i++) {
 			if(number<nums[i]){
 				index=i;
 				break;
 			}
 		}
-		//ÒÆÎ»ÖÃ
+		//ï¿½ï¿½Î»ï¿½ï¿½
 		for (int i = nums.length-1; i >index; i--) {
 			nums[i]=nums[i-1];
 		}
@@ -32,7 +30,7 @@ public class ArraysTest {
 		System.out.println(index);
 	}
 	/**
-	 * ÔÚÓĞĞòµÄÊı×éÖĞ²éÕÒÒ»¸öÊıĞèÒª¶àÉÙ´Î
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ğ²ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½Ù´ï¿½
 	 * @param nums
 	 * @param number
 	 * @return
@@ -45,7 +43,7 @@ public class ArraysTest {
 	    	count++;
 	        mid = low + (high - low) / 2;
 	        if(A[mid] == target){
-	        	System.out.println("´ÎÊı£º"+count);
+	        	System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"+count);
 	            return mid;
 	        }else if(A[mid] > target){
 	            high = mid - 1;
