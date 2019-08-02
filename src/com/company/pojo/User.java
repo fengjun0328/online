@@ -3,6 +3,7 @@ package com.company.pojo;
 public class User {
     private String userName;
     private String password;
+    private String pwd;
 
     public String getUserName() {
         return userName;
