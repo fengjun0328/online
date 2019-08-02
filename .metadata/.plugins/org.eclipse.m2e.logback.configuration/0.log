@@ -1,0 +1,835 @@
+2019-07-27 12:27:46,183 [main] INFO  c.g.e.m.h.c.ui.Html5AppCoreUIPlugin - Pluging started
+2019-07-27 12:27:50,513 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2019-07-27 12:27:50,665 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:27:55,353 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:27:55,731 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.8.0/icefaces-1.8.0.jar
+2019-07-27 12:27:55,816 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:27:56,242 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom
+2019-07-27 12:27:56,243 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom
+2019-07-27 12:27:56,457 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:27:56,815 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2019-07-27 12:27:56,990 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2019-07-27 12:27:57,181 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:27:57,580 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2019-07-27 12:27:57,766 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2019-07-27 12:27:57,982 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:27:58,345 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2019-07-27 12:27:58,524 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2019-07-27 12:27:59,204 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:00,568 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2019-07-27 12:28:00,918 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2019-07-27 12:28:01,275 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:01,694 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+2019-07-27 12:28:01,695 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+2019-07-27 12:28:01,942 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:02,342 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2019-07-27 12:28:02,529 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2019-07-27 12:28:02,853 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:03,227 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+2019-07-27 12:28:03,228 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+2019-07-27 12:28:03,417 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:03,800 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+2019-07-27 12:28:03,801 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+2019-07-27 12:28:03,996 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:04,362 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom
+2019-07-27 12:28:04,543 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom
+2019-07-27 12:28:04,738 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:05,112 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom
+2019-07-27 12:28:05,113 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom
+2019-07-27 12:28:05,305 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:05,667 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+2019-07-27 12:28:05,668 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+2019-07-27 12:28:05,876 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:06,238 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+2019-07-27 12:28:06,239 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+2019-07-27 12:28:06,437 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:06,807 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+2019-07-27 12:28:06,808 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+2019-07-27 12:28:07,003 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:07,366 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+2019-07-27 12:28:07,367 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+2019-07-27 12:28:07,580 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:07,940 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+2019-07-27 12:28:08,126 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+2019-07-27 12:28:08,318 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:08,715 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+2019-07-27 12:28:08,716 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+2019-07-27 12:28:08,962 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:09,364 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+2019-07-27 12:28:09,365 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+2019-07-27 12:28:09,561 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:09,926 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+2019-07-27 12:28:09,928 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+2019-07-27 12:28:10,123 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:10,511 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2019-07-27 12:28:10,512 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2019-07-27 12:28:10,709 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:11,093 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+2019-07-27 12:28:11,094 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+2019-07-27 12:28:11,295 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:11,658 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+2019-07-27 12:28:11,659 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+2019-07-27 12:28:11,854 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:12,217 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+2019-07-27 12:28:12,217 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+2019-07-27 12:28:12,410 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:12,777 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+2019-07-27 12:28:12,778 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+2019-07-27 12:28:12,969 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:13,318 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+2019-07-27 12:28:13,319 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+2019-07-27 12:28:13,500 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:13,895 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+2019-07-27 12:28:13,896 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+2019-07-27 12:28:14,131 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:14,487 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+2019-07-27 12:28:14,488 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+2019-07-27 12:28:14,691 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:15,066 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+2019-07-27 12:28:15,066 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+2019-07-27 12:28:15,260 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:15,628 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+2019-07-27 12:28:15,808 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+2019-07-27 12:28:16,004 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:16,396 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+2019-07-27 12:28:16,396 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+2019-07-27 12:28:16,615 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:16,997 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+2019-07-27 12:28:16,998 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+2019-07-27 12:28:17,202 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:17,598 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2019-07-27 12:28:17,598 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2019-07-27 12:28:17,850 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:18,232 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+2019-07-27 12:28:18,232 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+2019-07-27 12:28:18,459 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:18,805 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2019-07-27 12:28:18,849 [New I/O client worker #36-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+2019-07-27 12:28:18,856 [New I/O client worker #36-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+2019-07-27 12:28:18,858 [New I/O client worker #36-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+2019-07-27 12:28:19,677 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2019-07-27 12:28:20,396 [New I/O client worker #36-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+2019-07-27 12:28:21,345 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.8.0\ICEfaces\icefaces.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.8.0\icefaces-1.8.0.jar
+2019-07-27 12:28:21,447 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4502054256957075311.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.8.0\icefaces-1.8.0.pom
+2019-07-27 12:28:21,457 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:21,838 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.2/icefaces-1.7.2.jar
+2019-07-27 12:28:21,851 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.2\ICEfaces\icefaces.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.7.2\icefaces-1.7.2.jar
+2019-07-27 12:28:22,165 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3258439134821359609.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.7.2\icefaces-1.7.2.pom
+2019-07-27 12:28:22,172 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:22,575 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.1/icefaces-1.7.1.jar
+2019-07-27 12:28:22,582 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.1\ICEfaces\icefaces.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.7.1\icefaces-1.7.1.jar
+2019-07-27 12:28:22,809 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3303567914546683995.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.7.1\icefaces-1.7.1.pom
+2019-07-27 12:28:22,815 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:23,195 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.0/icefaces-1.7.0.jar
+2019-07-27 12:28:23,204 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.0\ICEfaces\icefaces.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.7.0\icefaces-1.7.0.jar
+2019-07-27 12:28:23,757 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7999582258875099062.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.7.0\icefaces-1.7.0.pom
+2019-07-27 12:28:23,762 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:24,172 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.jar
+2019-07-27 12:28:24,180 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.6.2\ICEfaces\icefaces.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.6.2\icefaces-1.6.2.jar
+2019-07-27 12:28:24,309 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7843399344534480272.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.6.2\icefaces-1.6.2.pom
+2019-07-27 12:28:24,314 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:25,306 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.6.1/icefaces-1.6.1.jar
+2019-07-27 12:28:25,314 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.6.1\ICEfaces\icefaces.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.6.1\icefaces-1.6.1.jar
+2019-07-27 12:28:25,730 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8067824670722865784.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces\1.6.1\icefaces-1.6.1.pom
+2019-07-27 12:28:25,747 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:26,113 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icepush/icepush/2.0.2/icepush-2.0.2.jar
+2019-07-27 12:28:26,120 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\org.icepush\icepush\2.0\icepush.jar to C:\Users\Administrator\.m2\repository\org\icepush\icepush\2.0.2\icepush-2.0.2.jar
+2019-07-27 12:28:26,260 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall313349604486002790.pom to C:\Users\Administrator\.m2\repository\org\icepush\icepush\2.0.2\icepush-2.0.2.pom
+2019-07-27 12:28:26,264 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:26,625 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.8.0/icefaces-comps-1.8.0.jar
+2019-07-27 12:28:26,634 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.8.0\ICEfaces\icefaces-comps.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.8.0\icefaces-comps-1.8.0.jar
+2019-07-27 12:28:27,077 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5064142283630662515.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.8.0\icefaces-comps-1.8.0.pom
+2019-07-27 12:28:27,082 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:27,451 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.7.2/icefaces-comps-1.7.2.jar
+2019-07-27 12:28:27,458 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.2\ICEfaces\icefaces-comps.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.7.2\icefaces-comps-1.7.2.jar
+2019-07-27 12:28:27,795 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6799721264017470597.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.7.2\icefaces-comps-1.7.2.pom
+2019-07-27 12:28:27,802 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:28,177 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.7.1/icefaces-comps-1.7.1.jar
+2019-07-27 12:28:28,184 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.1\ICEfaces\icefaces-comps.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.7.1\icefaces-comps-1.7.1.jar
+2019-07-27 12:28:28,271 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5228633555227055444.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.7.1\icefaces-comps-1.7.1.pom
+2019-07-27 12:28:28,276 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:28,638 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.7.0/icefaces-comps-1.7.0.jar
+2019-07-27 12:28:28,647 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.0\ICEfaces\icefaces-comps.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.7.0\icefaces-comps-1.7.0.jar
+2019-07-27 12:28:28,789 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8454293999550228396.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.7.0\icefaces-comps-1.7.0.pom
+2019-07-27 12:28:28,795 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:29,172 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.6.2/icefaces-comps-1.6.2.jar
+2019-07-27 12:28:29,219 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.6.2\ICEfaces\icefaces-comps.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.6.2\icefaces-comps-1.6.2.jar
+2019-07-27 12:28:29,306 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5335029787956186074.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.6.2\icefaces-comps-1.6.2.pom
+2019-07-27 12:28:29,312 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:29,678 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.6.1/icefaces-comps-1.6.1.jar
+2019-07-27 12:28:29,684 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.6.1\ICEfaces\icefaces-comps.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.6.1\icefaces-comps-1.6.1.jar
+2019-07-27 12:28:29,773 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall999461359019674955.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-comps\1.6.1\icefaces-comps-1.6.1.pom
+2019-07-27 12:28:29,777 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:30,147 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.8.0/icefaces-facelets-1.8.0.jar
+2019-07-27 12:28:30,154 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.8.0\ICEfaces-Facelets\icefaces-facelets.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.8.0\icefaces-facelets-1.8.0.jar
+2019-07-27 12:28:30,236 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8950066852860985523.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.8.0\icefaces-facelets-1.8.0.pom
+2019-07-27 12:28:30,241 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:30,607 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.7.2/icefaces-facelets-1.7.2.jar
+2019-07-27 12:28:30,635 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.2\ICEfaces-Facelets\icefaces-facelets.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.7.2\icefaces-facelets-1.7.2.jar
+2019-07-27 12:28:30,725 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall514974792990900923.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.7.2\icefaces-facelets-1.7.2.pom
+2019-07-27 12:28:30,731 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:31,081 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.7.1/icefaces-facelets-1.7.1.jar
+2019-07-27 12:28:31,107 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.0\ICEfaces-Facelets\icefaces-facelets.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.7.1\icefaces-facelets-1.7.1.jar
+2019-07-27 12:28:31,496 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7173999992527631234.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.7.1\icefaces-facelets-1.7.1.pom
+2019-07-27 12:28:31,504 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:31,869 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.7.0/icefaces-facelets-1.7.0.jar
+2019-07-27 12:28:31,877 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.7.0\ICEfaces-Facelets\icefaces-facelets.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.7.0\icefaces-facelets-1.7.0.jar
+2019-07-27 12:28:31,945 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1506708577920603222.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.7.0\icefaces-facelets-1.7.0.pom
+2019-07-27 12:28:31,950 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:32,302 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.6.2/icefaces-facelets-1.6.2.jar
+2019-07-27 12:28:32,313 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.6.2\ICEfaces-Facelets\icefaces-facelets.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.6.2\icefaces-facelets-1.6.2.jar
+2019-07-27 12:28:32,393 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4492748330916064079.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.6.2\icefaces-facelets-1.6.2.pom
+2019-07-27 12:28:32,397 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:42,903 [New I/O client boss #54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.6.1/icefaces-facelets-1.6.1.jar
+2019-07-27 12:28:42,909 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\1.6.1\ICEfaces-Facelets\icefaces-facelets.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.6.1\icefaces-facelets-1.6.1.jar
+2019-07-27 12:28:43,099 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8744215914148404127.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-facelets\1.6.1\icefaces-facelets-1.6.1.pom
+2019-07-27 12:28:43,104 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:43,452 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/jexcelapi/jxl/2.6.8/jxl-2.6.8.jar
+2019-07-27 12:28:43,460 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\net.sourceforge.jexcelapi\jxl\2.6.8\jxl.jar to C:\Users\Administrator\.m2\repository\net\sourceforge\jexcelapi\jxl\2.6.8\jxl-2.6.8.jar
+2019-07-27 12:28:43,633 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1934060343110494865.pom to C:\Users\Administrator\.m2\repository\net\sourceforge\jexcelapi\jxl\2.6.8\jxl-2.6.8.pom
+2019-07-27 12:28:43,637 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:43,991 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-mobi/1.3.0/icefaces-mobi-1.3.0.jar
+2019-07-27 12:28:43,998 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\org.icefaces\icefaces-mobi\1.3\icefaces-mobi.jar to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-mobi\1.3.0\icefaces-mobi-1.3.0.jar
+2019-07-27 12:28:44,083 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5894140628613875882.pom to C:\Users\Administrator\.m2\repository\org\icefaces\icefaces-mobi\1.3.0\icefaces-mobi-1.3.0.pom
+2019-07-27 12:28:44,089 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:44,451 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icepush/icepush/3.0.0/icepush-3.0.0.jar
+2019-07-27 12:28:44,457 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.icefaces_11.0.1.me201308151823\data\org.icepush\icepush\3.0\icepush.jar to C:\Users\Administrator\.m2\repository\org\icepush\icepush\3.0.0\icepush-3.0.0.jar
+2019-07-27 12:28:44,552 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall604765828522695303.pom to C:\Users\Administrator\.m2\repository\org\icepush\icepush\3.0.0\icepush-3.0.0.pom
+2019-07-27 12:28:44,558 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:44,913 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/activation/activation/1.0.2/activation-1.0.2.jar
+2019-07-27 12:28:44,925 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.j2eedt.core_11.5.0.me201311281640\data\libraryset\1.4\activation.jar to C:\Users\Administrator\.m2\repository\javax\activation\activation\1.0.2\activation-1.0.2.jar
+2019-07-27 12:28:45,243 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4490360966846494172.pom to C:\Users\Administrator\.m2\repository\javax\activation\activation\1.0.2\activation-1.0.2.pom
+2019-07-27 12:28:45,247 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:45,613 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/mail/mail/1.3.1/mail-1.3.1.jar
+2019-07-27 12:28:45,620 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.j2eedt.core_11.5.0.me201311281640\data\libraryset\1.4\mail.jar to C:\Users\Administrator\.m2\repository\javax\mail\mail\1.3.1\mail-1.3.1.jar
+2019-07-27 12:28:45,719 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall336839673232850367.pom to C:\Users\Administrator\.m2\repository\javax\mail\mail\1.3.1\mail-1.3.1.pom
+2019-07-27 12:28:45,729 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:46,079 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/namespace/1.0.1/namespace-1.0.1.jar
+2019-07-27 12:28:46,085 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.j2eedt.core_11.5.0.me201311281640\data\libraryset\1.4\namespace.jar to C:\Users\Administrator\.m2\repository\javax\xml\namespace\1.0.1\namespace-1.0.1.jar
+2019-07-27 12:28:46,204 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2099104838615945434.pom to C:\Users\Administrator\.m2\repository\javax\xml\namespace\1.0.1\namespace-1.0.1.pom
+2019-07-27 12:28:46,213 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:46,567 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/sql/jdbc-stdext/2.0/jdbc-stdext-2.0.jar
+2019-07-27 12:28:46,575 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.j2eedt.core_11.5.0.me201311281640\data\libraryset\JSTL1.0\lib\jdbc2_0-stdext.jar to C:\Users\Administrator\.m2\repository\javax\sql\jdbc-stdext\2.0\jdbc-stdext-2.0.jar
+2019-07-27 12:28:46,704 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1601277504781109496.pom to C:\Users\Administrator\.m2\repository\javax\sql\jdbc-stdext\2.0\jdbc-stdext-2.0.pom
+2019-07-27 12:28:46,710 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:47,062 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/jts/jts/1.0/jts-1.0.jar
+2019-07-27 12:28:47,069 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.j2eedt.core_11.5.0.me201311281640\data\libraryset\1.3\jts.jar to C:\Users\Administrator\.m2\repository\javax\jts\jts\1.0\jts-1.0.jar
+2019-07-27 12:28:47,456 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1576949857947521492.pom to C:\Users\Administrator\.m2\repository\javax\jts\jts\1.0\jts-1.0.pom
+2019-07-27 12:28:47,467 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:48,834 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/el-api/el-api/1.0/el-api-1.0.jar
+2019-07-27 12:28:48,841 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\99\1\.cp\data\facelets\lib\el-api.jar to C:\Users\Administrator\.m2\repository\el-api\el-api\1.0\el-api-1.0.jar
+2019-07-27 12:28:49,350 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4658761531376257441.pom to C:\Users\Administrator\.m2\repository\el-api\el-api\1.0\el-api-1.0.pom
+2019-07-27 12:28:49,356 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:49,711 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/el-ri/el-ri/1.0/el-ri-1.0.jar
+2019-07-27 12:28:49,733 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\99\1\.cp\data\facelets\lib\el-ri.jar to C:\Users\Administrator\.m2\repository\el-ri\el-ri\1.0\el-ri-1.0.jar
+2019-07-27 12:28:50,008 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1695263017975126859.pom to C:\Users\Administrator\.m2\repository\el-ri\el-ri\1.0\el-ri-1.0.pom
+2019-07-27 12:28:50,016 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:50,385 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/faces/jsf-api/2.0.3/jsf-api-2.0.3.jar
+2019-07-27 12:28:50,392 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\99\1\.cp\data\2.0\Mojarra\jsf-api.jar to C:\Users\Administrator\.m2\repository\javax\faces\jsf-api\2.0.3\jsf-api-2.0.3.jar
+2019-07-27 12:28:50,500 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2858201887230828282.pom to C:\Users\Administrator\.m2\repository\javax\faces\jsf-api\2.0.3\jsf-api-2.0.3.pom
+2019-07-27 12:28:50,504 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:50,867 [New I/O client worker #66-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/faces/jsf-impl/2.0.3/jsf-impl-2.0.3.jar
+2019-07-27 12:28:50,872 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\99\1\.cp\data\2.0\Mojarra\jsf-impl.jar to C:\Users\Administrator\.m2\repository\javax\faces\jsf-impl\2.0.3\jsf-impl-2.0.3.jar
+2019-07-27 12:28:51,080 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4683338878571090763.pom to C:\Users\Administrator\.m2\repository\javax\faces\jsf-impl\2.0.3\jsf-impl-2.0.3.pom
+2019-07-27 12:28:51,097 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:51,450 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/cache/jbosscache-core/3.1.0/jbosscache-core-3.1.0.jar
+2019-07-27 12:28:51,458 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\101\1\.cp\myeclipse-data\3.3\lib\extra\jbosscache2\jbosscache-core-3.1.0.GA.jar to C:\Users\Administrator\.m2\repository\org\jboss\cache\jbosscache-core\3.1.0\jbosscache-core-3.1.0.jar
+2019-07-27 12:28:51,561 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall30279270104165679.pom to C:\Users\Administrator\.m2\repository\org\jboss\cache\jbosscache-core\3.1.0\jbosscache-core-3.1.0.pom
+2019-07-27 12:28:51,567 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:51,928 [New I/O client worker #68-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/resource/connector/1.0/connector-1.0.jar
+2019-07-27 12:28:51,959 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\101\1\.cp\myeclipse-data\2.1\lib\extra\connector.jar to C:\Users\Administrator\.m2\repository\javax\resource\connector\1.0\connector-1.0.jar
+2019-07-27 12:28:52,044 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall9099095975048789242.pom to C:\Users\Administrator\.m2\repository\javax\resource\connector\1.0\connector-1.0.pom
+2019-07-27 12:28:52,049 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:53,408 [New I/O client worker #69-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/security/jacc/1.0/jacc-1.0.jar
+2019-07-27 12:28:53,419 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\101\1\.cp\myeclipse-data\3.0\lib\extra\jacc-1_0-fr.jar to C:\Users\Administrator\.m2\repository\javax\security\jacc\1.0\jacc-1.0.jar
+2019-07-27 12:28:53,657 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8426488215886503239.pom to C:\Users\Administrator\.m2\repository\javax\security\jacc\1.0\jacc-1.0.pom
+2019-07-27 12:28:53,663 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:54,031 [New I/O client worker #70-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/security/jaas/1.0.01/jaas-1.0.01.jar
+2019-07-27 12:28:54,040 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\101\1\.cp\myeclipse-data\3.0\lib\core\jaas.jar to C:\Users\Administrator\.m2\repository\javax\security\jaas\1.0.01\jaas-1.0.01.jar
+2019-07-27 12:28:54,122 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8712150591494293900.pom to C:\Users\Administrator\.m2\repository\javax\security\jaas\1.0.01\jaas-1.0.01.pom
+2019-07-27 12:28:54,131 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:54,510 [New I/O client worker #71-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/transaction/jta/1.0.1B/jta-1.0.1B.jar
+2019-07-27 12:28:54,518 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\101\1\.cp\myeclipse-data\2.1\lib\core\jta.jar to C:\Users\Administrator\.m2\repository\javax\transaction\jta\1.0.1B\jta-1.0.1B.jar
+2019-07-27 12:28:54,631 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6696054495265799258.pom to C:\Users\Administrator\.m2\repository\javax\transaction\jta\1.0.1B\jta-1.0.1B.pom
+2019-07-27 12:28:54,636 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:54,983 [New I/O client worker #72-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javassist/javassist/3.9.0/javassist-3.9.0.jar
+2019-07-27 12:28:54,992 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\101\1\.cp\myeclipse-data\3.3\lib\core\bytecode\javassist\javassist-3.9.0.GA.jar to C:\Users\Administrator\.m2\repository\javassist\javassist\3.9.0\javassist-3.9.0.jar
+2019-07-27 12:28:55,365 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2636588251051623177.pom to C:\Users\Administrator\.m2\repository\javassist\javassist\3.9.0\javassist-3.9.0.pom
+2019-07-27 12:28:55,371 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:55,751 [New I/O client worker #73-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate/3.3.2/hibernate-3.3.2.jar
+2019-07-27 12:28:55,757 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\101\1\.cp\myeclipse-data\3.3\lib\core\hibernate3.jar to C:\Users\Administrator\.m2\repository\org\hibernate\hibernate\3.3.2\hibernate-3.3.2.jar
+2019-07-27 12:28:55,907 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall17676084474907808.pom to C:\Users\Administrator\.m2\repository\org\hibernate\hibernate\3.3.2\hibernate-3.3.2.pom
+2019-07-27 12:28:55,913 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:56,285 [New I/O client worker #74-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.0.1/javax.persistence-2.0.1.jar
+2019-07-27 12:28:56,293 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\103\1\.cp\data\eclipselink\2.1\javax.persistence_2.0.1.v201006031150.jar to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\javax.persistence\2.0.1\javax.persistence-2.0.1.jar
+2019-07-27 12:28:56,493 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2020232802281924469.pom to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\javax.persistence\2.0.1\javax.persistence-2.0.1.pom
+2019-07-27 12:28:56,503 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:56,877 [New I/O client worker #75-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.1/eclipselink-2.1.jar
+2019-07-27 12:28:56,885 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\103\1\.cp\data\eclipselink\2.1\eclipselink.jar to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink\2.1\eclipselink-2.1.jar
+2019-07-27 12:28:57,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall561990496467636425.pom to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink\2.1\eclipselink-2.1.pom
+2019-07-27 12:28:57,097 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:57,459 [New I/O client worker #76-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink-jpa-modelgen/2.1/eclipselink-jpa-modelgen-2.1.jar
+2019-07-27 12:28:57,466 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\103\1\.cp\data\eclipselink\2.1\eclipselink-jpa-modelgen_2.1.1.v20100817-r8050.jar to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink-jpa-modelgen\2.1\eclipselink-jpa-modelgen-2.1.jar
+2019-07-27 12:28:57,630 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3756651604185851642.pom to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink-jpa-modelgen\2.1\eclipselink-jpa-modelgen-2.1.pom
+2019-07-27 12:28:57,634 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:57,983 [New I/O client worker #77-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink-jpa-modelgen/2.5.1/eclipselink-jpa-modelgen-2.5.1.jar
+2019-07-27 12:28:57,989 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\103\1\.cp\data\eclipselink\2.5\org.eclipse.persistence.jpa.modelgen_2.5.1.v20130918-f2b9fc5.jar to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink-jpa-modelgen\2.5.1\eclipselink-jpa-modelgen-2.5.1.jar
+2019-07-27 12:28:58,078 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5210085303712537796.pom to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink-jpa-modelgen\2.5.1\eclipselink-jpa-modelgen-2.5.1.pom
+2019-07-27 12:28:58,083 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:58,472 [New I/O client worker #78-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jexcelapi/jxl/2.6.9/jxl-2.6.9.jar
+2019-07-27 12:28:58,484 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\2.5\lib\jexcelapi\jxl.jar to C:\Users\Administrator\.m2\repository\jexcelapi\jxl\2.6.9\jxl-2.6.9.jar
+2019-07-27 12:28:58,661 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6504560376347901228.pom to C:\Users\Administrator\.m2\repository\jexcelapi\jxl\2.6.9\jxl-2.6.9.pom
+2019-07-27 12:28:58,665 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:28:59,091 [New I/O client worker #79-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/jamonapi/jamon/2.7/jamon-2.7.jar
+2019-07-27 12:28:59,103 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\2.5\lib\jamon\jamon-2.7.jar to C:\Users\Administrator\.m2\repository\com\jamonapi\jamon\2.7\jamon-2.7.jar
+2019-07-27 12:29:00,164 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1289048718592528313.pom to C:\Users\Administrator\.m2\repository\com\jamonapi\jamon\2.7\jamon-2.7.pom
+2019-07-27 12:29:00,168 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:00,559 [New I/O client worker #80-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/easybeans/quartz/1.6.1/quartz-1.6.1.jar
+2019-07-27 12:29:00,565 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\2.5\lib\quartz\quartz-all-1.6.1.jar to C:\Users\Administrator\.m2\repository\org\ow2\easybeans\quartz\1.6.1\quartz-1.6.1.jar
+2019-07-27 12:29:00,716 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4784030345343901854.pom to C:\Users\Administrator\.m2\repository\org\ow2\easybeans\quartz\1.6.1\quartz-1.6.1.pom
+2019-07-27 12:29:00,720 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:01,117 [New I/O client worker #81-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/javaconfig/spring-javaconfig/1.0.0.m4/spring-javaconfig-1.0.0.m4.jar
+2019-07-27 12:29:01,123 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\javaconfig\org.springframework.config.java-1.0.0.M4.jar to C:\Users\Administrator\.m2\repository\org\springframework\javaconfig\spring-javaconfig\1.0.0.m4\spring-javaconfig-1.0.0.m4.jar
+2019-07-27 12:29:01,332 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5775637709286991508.pom to C:\Users\Administrator\.m2\repository\org\springframework\javaconfig\spring-javaconfig\1.0.0.m4\spring-javaconfig-1.0.0.m4.pom
+2019-07-27 12:29:01,337 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:01,710 [New I/O client worker #82-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jmx/jmxri/1.2.1/jmxri-1.2.1.jar
+2019-07-27 12:29:01,716 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\1.2\lib\dependencies\jmx\jmxri.jar to C:\Users\Administrator\.m2\repository\com\sun\jmx\jmxri\1.2.1\jmxri-1.2.1.jar
+2019-07-27 12:29:01,816 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3873128222556017545.pom to C:\Users\Administrator\.m2\repository\com\sun\jmx\jmxri\1.2.1\jmxri-1.2.1.pom
+2019-07-27 12:29:01,821 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:02,230 [New I/O client worker #83-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/management/jmxremote/1.0.1_04/jmxremote-1.0.1_04.jar
+2019-07-27 12:29:02,239 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\1.2\lib\dependencies\jmx\jmxremote.jar to C:\Users\Administrator\.m2\repository\javax\management\jmxremote\1.0.1_04\jmxremote-1.0.1_04.jar
+2019-07-27 12:29:02,342 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8928115455807432598.pom to C:\Users\Administrator\.m2\repository\javax\management\jmxremote\1.0.1_04\jmxremote-1.0.1_04.pom
+2019-07-27 12:29:02,346 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:02,734 [New I/O client worker #84-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/management/jmxremote_optional/1.0.1_04/jmxremote_optional-1.0.1_04.jar
+2019-07-27 12:29:02,740 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\1.2\lib\dependencies\jmx\jmxremote_optional.jar to C:\Users\Administrator\.m2\repository\javax\management\jmxremote_optional\1.0.1_04\jmxremote_optional-1.0.1_04.jar
+2019-07-27 12:29:03,152 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall523668334118391086.pom to C:\Users\Administrator\.m2\repository\javax\management\jmxremote_optional\1.0.1_04\jmxremote_optional-1.0.1_04.pom
+2019-07-27 12:29:03,156 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:03,550 [New I/O client worker #85-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/management/jmxri/1.2.1/jmxri-1.2.1.jar
+2019-07-27 12:29:03,555 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\1.2\lib\dependencies\jmx\jmxri.jar to C:\Users\Administrator\.m2\repository\javax\management\jmxri\1.2.1\jmxri-1.2.1.jar
+2019-07-27 12:29:03,634 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1456778652449537312.pom to C:\Users\Administrator\.m2\repository\javax\management\jmxri\1.2.1\jmxri-1.2.1.pom
+2019-07-27 12:29:03,639 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:04,039 [New I/O client worker #86-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jdo/jdo/1.0.1/jdo-1.0.1.jar
+2019-07-27 12:29:04,049 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\1.2\lib\dependencies\jdo\jdo2.jar to C:\Users\Administrator\.m2\repository\jdo\jdo\1.0.1\jdo-1.0.1.jar
+2019-07-27 12:29:04,269 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3173899617652579927.pom to C:\Users\Administrator\.m2\repository\jdo\jdo\1.0.1\jdo-1.0.1.pom
+2019-07-27 12:29:04,273 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:04,667 [New I/O client worker #87-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/bea/wlplatform/commonj-twm/1.1/commonj-twm-1.1.jar
+2019-07-27 12:29:04,686 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\2.0\lib\commonj\commonj-twm.jar to C:\Users\Administrator\.m2\repository\com\bea\wlplatform\commonj-twm\1.1\commonj-twm-1.1.jar
+2019-07-27 12:29:04,802 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8399657187746387286.pom to C:\Users\Administrator\.m2\repository\com\bea\wlplatform\commonj-twm\1.1\commonj-twm-1.1.pom
+2019-07-27 12:29:04,805 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:05,165 [New I/O client worker #88-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/oracle/toplink/toplink/10.1.3/toplink-10.1.3.jar
+2019-07-27 12:29:05,172 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\2.0\lib\toplink\toplink-api.jar to C:\Users\Administrator\.m2\repository\com\oracle\toplink\toplink\10.1.3\toplink-10.1.3.jar
+2019-07-27 12:29:05,270 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4555679615213776719.pom to C:\Users\Administrator\.m2\repository\com\oracle\toplink\toplink\10.1.3\toplink-10.1.3.pom
+2019-07-27 12:29:05,275 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:06,674 [New I/O client worker #89-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/groovy/1.0/groovy-1.0.jar
+2019-07-27 12:29:06,680 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\104\1\.cp\data\2.0\lib\groovy\groovy-1.0.jar to C:\Users\Administrator\.m2\repository\org\codehaus\groovy\1.0\groovy-1.0.jar
+2019-07-27 12:29:06,785 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7288722189715950952.pom to C:\Users\Administrator\.m2\repository\org\codehaus\groovy\1.0\groovy-1.0.pom
+2019-07-27 12:29:06,789 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:07,147 [New I/O client worker #90-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/org.springframework.security.core/3.0.5.RELEASE/org.springframework.security.core-3.0.5.RELEASE.jar
+2019-07-27 12:29:07,533 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\security-3.0\spring-security-core-3.0.5.RELEASE.jar to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.core\3.0.5.RELEASE\org.springframework.security.core-3.0.5.RELEASE.jar
+2019-07-27 12:29:07,684 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7263373191163909600.pom to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.core\3.0.5.RELEASE\org.springframework.security.core-3.0.5.RELEASE.pom
+2019-07-27 12:29:07,688 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:08,072 [New I/O client worker #91-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/org.springframework.security.web/3.0.5.RELEASE/org.springframework.security.web-3.0.5.RELEASE.jar
+2019-07-27 12:29:08,102 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\security-3.0\spring-security-web-3.0.5.RELEASE.jar to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.web\3.0.5.RELEASE\org.springframework.security.web-3.0.5.RELEASE.jar
+2019-07-27 12:29:08,211 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1203159706917289003.pom to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.web\3.0.5.RELEASE\org.springframework.security.web-3.0.5.RELEASE.pom
+2019-07-27 12:29:08,215 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:08,584 [New I/O client worker #92-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/org.springframework.security.config/3.0.5.RELEASE/org.springframework.security.config-3.0.5.RELEASE.jar
+2019-07-27 12:29:08,590 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\security-3.0\spring-security-config-3.0.5.RELEASE.jar to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.config\3.0.5.RELEASE\org.springframework.security.config-3.0.5.RELEASE.jar
+2019-07-27 12:29:08,685 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall818864237734293785.pom to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.config\3.0.5.RELEASE\org.springframework.security.config-3.0.5.RELEASE.pom
+2019-07-27 12:29:08,689 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:09,060 [New I/O client worker #93-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/org.springframework.security.ldap/3.0.5.RELEASE/org.springframework.security.ldap-3.0.5.RELEASE.jar
+2019-07-27 12:29:09,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\security-3.0\spring-security-ldap-3.0.5.RELEASE.jar to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.ldap\3.0.5.RELEASE\org.springframework.security.ldap-3.0.5.RELEASE.jar
+2019-07-27 12:29:09,136 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4478861786917224537.pom to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.ldap\3.0.5.RELEASE\org.springframework.security.ldap-3.0.5.RELEASE.pom
+2019-07-27 12:29:09,141 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:09,513 [New I/O client worker #94-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/org.springframework.security.taglibs/3.0.5.RELEASE/org.springframework.security.taglibs-3.0.5.RELEASE.jar
+2019-07-27 12:29:09,521 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\security-3.0\spring-security-taglibs-3.0.5.RELEASE.jar to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.taglibs\3.0.5.RELEASE\org.springframework.security.taglibs-3.0.5.RELEASE.jar
+2019-07-27 12:29:09,604 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2656968696468365123.pom to C:\Users\Administrator\.m2\repository\org\springframework\security\org.springframework.security.taglibs\3.0.5.RELEASE\org.springframework.security.taglibs-3.0.5.RELEASE.pom
+2019-07-27 12:29:09,614 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:10,004 [New I/O client worker #95-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/bea/commonj/com.springsource.commonj/1.1.0/com.springsource.commonj-1.1.0.jar
+2019-07-27 12:29:10,010 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\misc\com.springsource.commonj-1.1.0.jar to C:\Users\Administrator\.m2\repository\com\bea\commonj\com.springsource.commonj\1.1.0\com.springsource.commonj-1.1.0.jar
+2019-07-27 12:29:10,246 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6539110274576539576.pom to C:\Users\Administrator\.m2\repository\com\bea\commonj\com.springsource.commonj\1.1.0\com.springsource.commonj-1.1.0.pom
+2019-07-27 12:29:10,255 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:10,628 [New I/O client worker #96-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/opensymphony/quartz/com.springsource.org.quartz/1.6.2/com.springsource.org.quartz-1.6.2.jar
+2019-07-27 12:29:10,645 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\misc\com.springsource.org.quartz-1.6.2.jar to C:\Users\Administrator\.m2\repository\com\opensymphony\quartz\com.springsource.org.quartz\1.6.2\com.springsource.org.quartz-1.6.2.jar
+2019-07-27 12:29:10,770 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4937915775376217041.pom to C:\Users\Administrator\.m2\repository\com\opensymphony\quartz\com.springsource.org.quartz\1.6.2\com.springsource.org.quartz-1.6.2.pom
+2019-07-27 12:29:10,775 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:11,149 [New I/O client worker #97-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/jdo/jdo2-api/2.1.0/jdo2-api-2.1.0.jar
+2019-07-27 12:29:11,157 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\persistJDO\com.springsource.javax.jdo-2.1.0.jar to C:\Users\Administrator\.m2\repository\javax\jdo\jdo2-api\2.1.0\jdo2-api-2.1.0.jar
+2019-07-27 12:29:11,271 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2590068796933797105.pom to C:\Users\Administrator\.m2\repository\javax\jdo\jdo2-api\2.1.0\jdo2-api-2.1.0.pom
+2019-07-27 12:29:11,276 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:11,643 [New I/O client worker #98-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/caucho/com.springsource.com.caucho/3.2.1/com.springsource.com.caucho-3.2.1.jar
+2019-07-27 12:29:11,652 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\remoting\com.springsource.com.caucho-3.2.1.jar to C:\Users\Administrator\.m2\repository\com\caucho\com.springsource.com.caucho\3.2.1\com.springsource.com.caucho-3.2.1.jar
+2019-07-27 12:29:11,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall906364874065010452.pom to C:\Users\Administrator\.m2\repository\com\caucho\com.springsource.com.caucho\3.2.1\com.springsource.com.caucho-3.2.1.pom
+2019-07-27 12:29:11,810 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:12,178 [New I/O client worker #99-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/com.springsource.org.codehaus.jackson.mapper/1.0.0/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar
+2019-07-27 12:29:12,186 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\web\com.springsource.org.codehaus.jackson.mapper-1.0.0.jar to C:\Users\Administrator\.m2\repository\org\codehaus\jackson\com.springsource.org.codehaus.jackson.mapper\1.0.0\com.springsource.org.codehaus.jackson.mapper-1.0.0.jar
+2019-07-27 12:29:12,279 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6487984763601464033.pom to C:\Users\Administrator\.m2\repository\org\codehaus\jackson\com.springsource.org.codehaus.jackson.mapper\1.0.0\com.springsource.org.codehaus.jackson.mapper-1.0.0.pom
+2019-07-27 12:29:12,285 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:12,648 [New I/O client worker #100-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar
+2019-07-27 12:29:12,666 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\test\com.springsource.org.junit-4.7.0.jar to C:\Users\Administrator\.m2\repository\org\junit\com.springsource.org.junit\4.7.0\com.springsource.org.junit-4.7.0.jar
+2019-07-27 12:29:12,771 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7739943820647888860.pom to C:\Users\Administrator\.m2\repository\org\junit\com.springsource.org.junit\4.7.0\com.springsource.org.junit-4.7.0.pom
+2019-07-27 12:29:12,777 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:13,153 [New I/O client worker #101-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/com.springsource.javax.inject/1.0.0/com.springsource.javax.inject-1.0.0.jar
+2019-07-27 12:29:13,175 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\test\com.springsource.javax.inject-1.0.0.jar to C:\Users\Administrator\.m2\repository\javax\inject\com.springsource.javax.inject\1.0.0\com.springsource.javax.inject-1.0.0.jar
+2019-07-27 12:29:13,334 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall623506591534801434.pom to C:\Users\Administrator\.m2\repository\javax\inject\com.springsource.javax.inject\1.0.0\com.springsource.javax.inject-1.0.0.pom
+2019-07-27 12:29:13,339 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:13,735 [New I/O client worker #102-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/com.springsource.org.apache.commons.lang/2.4.0/com.springsource.org.apache.commons.lang-2.4.0.jar
+2019-07-27 12:29:13,741 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\persistJdbc\com.springsource.org.apache.commons.lang-2.4.0.jar to C:\Users\Administrator\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.lang\2.4.0\com.springsource.org.apache.commons.lang-2.4.0.jar
+2019-07-27 12:29:13,852 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall833647029215497392.pom to C:\Users\Administrator\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.lang\2.4.0\com.springsource.org.apache.commons.lang-2.4.0.pom
+2019-07-27 12:29:13,857 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:14,233 [New I/O client worker #103-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jdmk/jmxtools/1.2.1/jmxtools-1.2.1.jar
+2019-07-27 12:29:14,244 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\core\jmxtools-1.2.1.jar to C:\Users\Administrator\.m2\repository\com\sun\jdmk\jmxtools\1.2.1\jmxtools-1.2.1.jar
+2019-07-27 12:29:14,346 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3770319604449449684.pom to C:\Users\Administrator\.m2\repository\com\sun\jdmk\jmxtools\1.2.1\jmxtools-1.2.1.pom
+2019-07-27 12:29:14,351 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:14,736 [New I/O client worker #104-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.8.RELEASE/aspectjweaver-1.6.8.RELEASE.jar
+2019-07-27 12:29:14,744 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\105\1\.cp\data\3.0\lib\aop\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar to C:\Users\Administrator\.m2\repository\org\aspectj\aspectjweaver\1.6.8.RELEASE\aspectjweaver-1.6.8.RELEASE.jar
+2019-07-27 12:29:14,833 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2741741109884926413.pom to C:\Users\Administrator\.m2\repository\org\aspectj\aspectjweaver\1.6.8.RELEASE\aspectjweaver-1.6.8.RELEASE.pom
+2019-07-27 12:29:14,839 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:15,219 [New I/O client worker #105-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/guice/guice/2.0/guice-2.0.jar
+2019-07-27 12:29:15,227 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\106\1\.cp\data\security-3.1\deps\guice-2.0.jar to C:\Users\Administrator\.m2\repository\com\google\code\guice\guice\2.0\guice-2.0.jar
+2019-07-27 12:29:15,322 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4759185001033130378.pom to C:\Users\Administrator\.m2\repository\com\google\code\guice\guice\2.0\guice-2.0.pom
+2019-07-27 12:29:15,327 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:15,705 [New I/O client worker #106-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jdo/jdori/1.0.1/jdori-1.0.1.jar
+2019-07-27 12:29:15,713 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\108\1\.cp\dependencies\jdori-1.0.1.jar to C:\Users\Administrator\.m2\repository\jdo\jdori\1.0.1\jdori-1.0.1.jar
+2019-07-27 12:29:15,845 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6466303122343467717.pom to C:\Users\Administrator\.m2\repository\jdo\jdori\1.0.1\jdori-1.0.1.pom
+2019-07-27 12:29:15,850 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:16,231 [New I/O client worker #107-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/jws/jsr181/1.0/jsr181-1.0.jar
+2019-07-27 12:29:16,242 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\108\1\.cp\dependencies\jsr181-api.jar to C:\Users\Administrator\.m2\repository\javax\jws\jsr181\1.0\jsr181-1.0.jar
+2019-07-27 12:29:16,339 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall736077337358900985.pom to C:\Users\Administrator\.m2\repository\javax\jws\jsr181\1.0\jsr181-1.0.pom
+2019-07-27 12:29:16,346 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:16,734 [New I/O client worker #108-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/jaxr-api/1.0_03/jaxr-api-1.0_03.jar
+2019-07-27 12:29:16,740 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\108\1\.cp\dependencies\jaxr-api.jar to C:\Users\Administrator\.m2\repository\javax\xml\jaxr-api\1.0_03\jaxr-api-1.0_03.jar
+2019-07-27 12:29:16,812 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1819193616545970624.pom to C:\Users\Administrator\.m2\repository\javax\xml\jaxr-api\1.0_03\jaxr-api-1.0_03.pom
+2019-07-27 12:29:16,817 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:17,200 [New I/O client worker #109-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/1.0.2/eclipselink-1.0.2.jar
+2019-07-27 12:29:17,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\122\1\.cp\data\eclipselink\1.0\eclipselink.jar to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink\1.0.2\eclipselink-1.0.2.jar
+2019-07-27 12:29:17,590 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8040595758288250653.pom to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\eclipselink\1.0.2\eclipselink-1.0.2.pom
+2019-07-27 12:29:17,599 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:17,988 [New I/O client worker #110-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/1.0.0/javax.persistence-1.0.0.jar
+2019-07-27 12:29:17,994 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\122\1\.cp\data\eclipselink\1.0\javax.persistence_1.0.0.jar to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\javax.persistence\1.0.0\javax.persistence-1.0.0.jar
+2019-07-27 12:29:18,245 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2249503267265304235.pom to C:\Users\Administrator\.m2\repository\org\eclipse\persistence\javax.persistence\1.0.0\javax.persistence-1.0.0.pom
+2019-07-27 12:29:18,346 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:18,716 [New I/O client worker #111-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/jms/jms/1.1/jms-1.1.jar
+2019-07-27 12:29:18,723 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\122\1\.cp\data\openjpa\0.9\geronimo-jms_1.1_spec-1.0.1.jar to C:\Users\Administrator\.m2\repository\javax\jms\jms\1.1\jms-1.1.jar
+2019-07-27 12:29:19,070 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6224280670696113016.pom to C:\Users\Administrator\.m2\repository\javax\jms\jms\1.1\jms-1.1.pom
+2019-07-27 12:29:19,083 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:19,444 [New I/O client worker #112-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/pluto-taglib/1.0.1/pluto-taglib-1.0.1.jar
+2019-07-27 12:29:19,452 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\123\1\.cp\data\lib\jsr168\pluto-taglib-1.0.1.jar to C:\Users\Administrator\.m2\repository\myeclipse\pluto-taglib\1.0.1\pluto-taglib-1.0.1.jar
+2019-07-27 12:29:20,218 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall780349446139035130.pom to C:\Users\Administrator\.m2\repository\myeclipse\pluto-taglib\1.0.1\pluto-taglib-1.0.1.pom
+2019-07-27 12:29:20,222 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:20,593 [New I/O client worker #113-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/pluto-taglib/2.0/pluto-taglib-2.0.jar
+2019-07-27 12:29:20,600 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\123\1\.cp\data\lib\jsr286\pluto-taglib-2.0.0.jar to C:\Users\Administrator\.m2\repository\myeclipse\pluto-taglib\2.0\pluto-taglib-2.0.jar
+2019-07-27 12:29:20,699 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5256020400444938601.pom to C:\Users\Administrator\.m2\repository\myeclipse\pluto-taglib\2.0\pluto-taglib-2.0.pom
+2019-07-27 12:29:20,703 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:21,078 [New I/O client worker #114-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/chartengineapi/2.2.0/chartengineapi-2.2.0.jar
+2019-07-27 12:29:21,085 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\chartengineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.2.0\chartengineapi-2.2.0.jar
+2019-07-27 12:29:21,316 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1061955110436805211.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.2.0\chartengineapi-2.2.0.pom
+2019-07-27 12:29:21,321 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:21,760 [New I/O client worker #115-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/coreapi/2.2.0/coreapi-2.2.0.jar
+2019-07-27 12:29:21,767 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\coreapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.2.0\coreapi-2.2.0.jar
+2019-07-27 12:29:21,875 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8908375413541781900.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.2.0\coreapi-2.2.0.pom
+2019-07-27 12:29:21,882 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:22,264 [New I/O client worker #116-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataadapterapi/2.2.0/dataadapterapi-2.2.0.jar
+2019-07-27 12:29:22,273 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\dataadapterapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.2.0\dataadapterapi-2.2.0.jar
+2019-07-27 12:29:22,355 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8761376222976368567.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.2.0\dataadapterapi-2.2.0.pom
+2019-07-27 12:29:22,361 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:23,271 [New I/O client worker #117-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dteapi/2.2.0/dteapi-2.2.0.jar
+2019-07-27 12:29:23,280 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\dteapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.2.0\dteapi-2.2.0.jar
+2019-07-27 12:29:23,388 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall688368886216172278.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.2.0\dteapi-2.2.0.pom
+2019-07-27 12:29:23,392 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:23,795 [New I/O client worker #118-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/engineapi/2.2.0/engineapi-2.2.0.jar
+2019-07-27 12:29:23,801 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\engineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.2.0\engineapi-2.2.0.jar
+2019-07-27 12:29:23,865 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall684822790230443025.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.2.0\engineapi-2.2.0.pom
+2019-07-27 12:29:23,869 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:24,274 [New I/O client worker #119-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/modelapi/2.2.0/modelapi-2.2.0.jar
+2019-07-27 12:29:24,282 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\modelapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.2.0\modelapi-2.2.0.jar
+2019-07-27 12:29:24,359 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall284011761056869440.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.2.0\modelapi-2.2.0.pom
+2019-07-27 12:29:24,364 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:25,202 [New I/O client worker #120-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/scriptapi/2.2.0/scriptapi-2.2.0.jar
+2019-07-27 12:29:25,208 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\scriptapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.2.0\scriptapi-2.2.0.jar
+2019-07-27 12:29:25,282 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6234805028278249863.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.2.0\scriptapi-2.2.0.pom
+2019-07-27 12:29:25,285 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:25,668 [New I/O client worker #121-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/viewservlets/2.2.0/viewservlets-2.2.0.jar
+2019-07-27 12:29:25,673 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\viewservlets.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.2.0\viewservlets-2.2.0.jar
+2019-07-27 12:29:25,753 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3238846681829688993.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.2.0\viewservlets-2.2.0.pom
+2019-07-27 12:29:25,758 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:26,134 [New I/O client worker #122-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/flute/1.0/flute-1.0.jar
+2019-07-27 12:29:26,141 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\flute.jar to C:\Users\Administrator\.m2\repository\myeclipse\flute\1.0\flute-1.0.jar
+2019-07-27 12:29:26,207 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3486475990354421378.pom to C:\Users\Administrator\.m2\repository\myeclipse\flute\1.0\flute-1.0.pom
+2019-07-27 12:29:26,212 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:26,607 [New I/O client worker #123-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.common/2.2.1/org.eclipse.emf.common-2.2.1.jar
+2019-07-27 12:29:26,614 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\org.eclipse.emf.common_2.2.1.v200702131851.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.common\2.2.1\org.eclipse.emf.common-2.2.1.jar
+2019-07-27 12:29:26,718 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7180444910170444650.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.common\2.2.1\org.eclipse.emf.common-2.2.1.pom
+2019-07-27 12:29:26,722 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:27,604 [New I/O client worker #124-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.ecore/2.2.2/org.eclipse.emf.ecore-2.2.2.jar
+2019-07-27 12:29:27,610 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\org.eclipse.emf.ecore_2.2.2.v200702131851.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore\2.2.2\org.eclipse.emf.ecore-2.2.2.jar
+2019-07-27 12:29:27,691 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7043119231421568700.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore\2.2.2\org.eclipse.emf.ecore-2.2.2.pom
+2019-07-27 12:29:27,696 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:28,100 [New I/O client worker #125-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.ecore.xmi/2.2.2/org.eclipse.emf.ecore.xmi-2.2.2.jar
+2019-07-27 12:29:28,107 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.2\org.eclipse.emf.ecore.xmi_2.2.2.v200702131851.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore.xmi\2.2.2\org.eclipse.emf.ecore.xmi-2.2.2.jar
+2019-07-27 12:29:28,244 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2489299698207799093.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore.xmi\2.2.2\org.eclipse.emf.ecore.xmi-2.2.2.pom
+2019-07-27 12:29:28,248 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:28,629 [New I/O client worker #126-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/chartengineapi/2.3.0/chartengineapi-2.3.0.jar
+2019-07-27 12:29:28,639 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\chartengineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.3.0\chartengineapi-2.3.0.jar
+2019-07-27 12:29:28,911 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall160650114886126481.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.3.0\chartengineapi-2.3.0.pom
+2019-07-27 12:29:28,926 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:29,312 [New I/O client worker #127-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/coreapi/2.3.0/coreapi-2.3.0.jar
+2019-07-27 12:29:29,318 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\coreapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.3.0\coreapi-2.3.0.jar
+2019-07-27 12:29:29,594 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2554138780846317164.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.3.0\coreapi-2.3.0.pom
+2019-07-27 12:29:29,598 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:29,980 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataadapterapi/2.3.0/dataadapterapi-2.3.0.jar
+2019-07-27 12:29:29,988 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\dataadapterapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.3.0\dataadapterapi-2.3.0.jar
+2019-07-27 12:29:30,060 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5111829870726876730.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.3.0\dataadapterapi-2.3.0.pom
+2019-07-27 12:29:30,066 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:30,439 [New I/O client worker #129-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dteapi/2.3.0/dteapi-2.3.0.jar
+2019-07-27 12:29:30,447 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\dteapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.3.0\dteapi-2.3.0.jar
+2019-07-27 12:29:30,553 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall9110211162699654427.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.3.0\dteapi-2.3.0.pom
+2019-07-27 12:29:30,559 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:30,906 [New I/O client worker #130-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/engineapi/2.3.0/engineapi-2.3.0.jar
+2019-07-27 12:29:30,923 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\engineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.3.0\engineapi-2.3.0.jar
+2019-07-27 12:29:31,117 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3702210528489766900.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.3.0\engineapi-2.3.0.pom
+2019-07-27 12:29:31,122 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:31,471 [New I/O client worker #131-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/modelapi/2.3.0/modelapi-2.3.0.jar
+2019-07-27 12:29:31,477 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\modelapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.3.0\modelapi-2.3.0.jar
+2019-07-27 12:29:31,595 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8718504463968750175.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.3.0\modelapi-2.3.0.pom
+2019-07-27 12:29:31,600 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:31,959 [New I/O client worker #132-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/scriptapi/2.3.0/scriptapi-2.3.0.jar
+2019-07-27 12:29:31,966 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\scriptapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.3.0\scriptapi-2.3.0.jar
+2019-07-27 12:29:32,054 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4886916958867589831.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.3.0\scriptapi-2.3.0.pom
+2019-07-27 12:29:32,060 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:32,419 [New I/O client worker #133-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/viewservlets/2.3.0/viewservlets-2.3.0.jar
+2019-07-27 12:29:32,424 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\viewservlets.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.3.0\viewservlets-2.3.0.jar
+2019-07-27 12:29:32,495 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4894261929305726558.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.3.0\viewservlets-2.3.0.pom
+2019-07-27 12:29:32,500 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:32,851 [New I/O client worker #134-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/crosstabcoreapi/2.3.0/crosstabcoreapi-2.3.0.jar
+2019-07-27 12:29:32,860 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\crosstabcoreapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\crosstabcoreapi\2.3.0\crosstabcoreapi-2.3.0.jar
+2019-07-27 12:29:33,031 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5927347930887848567.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\crosstabcoreapi\2.3.0\crosstabcoreapi-2.3.0.pom
+2019-07-27 12:29:33,037 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:33,386 [New I/O client worker #135-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataaggregationapi/2.3.0/dataaggregationapi-2.3.0.jar
+2019-07-27 12:29:33,393 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\dataaggregationapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataaggregationapi\2.3.0\dataaggregationapi-2.3.0.jar
+2019-07-27 12:29:33,677 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2119869384058164488.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataaggregationapi\2.3.0\dataaggregationapi-2.3.0.pom
+2019-07-27 12:29:33,681 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:34,046 [New I/O client worker #136-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/modelodaapi/2.3.0/modelodaapi-2.3.0.jar
+2019-07-27 12:29:34,053 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\modelodaapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelodaapi\2.3.0\modelodaapi-2.3.0.jar
+2019-07-27 12:29:34,160 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall317727960964264270.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelodaapi\2.3.0\modelodaapi-2.3.0.pom
+2019-07-27 12:29:34,164 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:34,542 [New I/O client worker #137-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/odadesignapi/2.3.0/odadesignapi-2.3.0.jar
+2019-07-27 12:29:34,549 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\odadesignapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\odadesignapi\2.3.0\odadesignapi-2.3.0.jar
+2019-07-27 12:29:34,669 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1472966244632992000.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\odadesignapi\2.3.0\odadesignapi-2.3.0.pom
+2019-07-27 12:29:34,673 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:35,022 [New I/O client worker #138-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataextraction/2.3.0/dataextraction-2.3.0.jar
+2019-07-27 12:29:35,029 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\dataextraction.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataextraction\2.3.0\dataextraction-2.3.0.jar
+2019-07-27 12:29:35,217 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall172131671483946811.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataextraction\2.3.0\dataextraction-2.3.0.pom
+2019-07-27 12:29:35,221 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:35,597 [New I/O client worker #139-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.common/2.4.0/org.eclipse.emf.common-2.4.0.jar
+2019-07-27 12:29:35,603 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\org.eclipse.emf.common_2.4.0.v200808251517.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.common\2.4.0\org.eclipse.emf.common-2.4.0.jar
+2019-07-27 12:29:35,687 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2746194304039897431.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.common\2.4.0\org.eclipse.emf.common-2.4.0.pom
+2019-07-27 12:29:35,692 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:36,520 [New I/O client worker #140-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.ecore/2.4.0/org.eclipse.emf.ecore-2.4.0.jar
+2019-07-27 12:29:36,526 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\org.eclipse.emf.ecore_2.4.1.v200808251517.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore\2.4.0\org.eclipse.emf.ecore-2.4.0.jar
+2019-07-27 12:29:36,743 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7410726625476076347.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore\2.4.0\org.eclipse.emf.ecore-2.4.0.pom
+2019-07-27 12:29:36,749 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:37,102 [New I/O client worker #141-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.ecore.xmi/2.4.0/org.eclipse.emf.ecore.xmi-2.4.0.jar
+2019-07-27 12:29:37,108 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.3\org.eclipse.emf.ecore.xmi_2.4.1.v200808251517.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore.xmi\2.4.0\org.eclipse.emf.ecore.xmi-2.4.0.jar
+2019-07-27 12:29:37,205 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3637846460520046741.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore.xmi\2.4.0\org.eclipse.emf.ecore.xmi-2.4.0.pom
+2019-07-27 12:29:37,210 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:37,554 [New I/O client worker #142-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/chartengineapi/2.5.0/chartengineapi-2.5.0.jar
+2019-07-27 12:29:37,561 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\chartengineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.5.0\chartengineapi-2.5.0.jar
+2019-07-27 12:29:37,662 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7137288213263438792.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.5.0\chartengineapi-2.5.0.pom
+2019-07-27 12:29:37,667 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:38,030 [New I/O client worker #143-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/chartitemapi/2.5.0/chartitemapi-2.5.0.jar
+2019-07-27 12:29:38,051 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\chartitemapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartitemapi\2.5.0\chartitemapi-2.5.0.jar
+2019-07-27 12:29:38,122 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4863236549319497178.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartitemapi\2.5.0\chartitemapi-2.5.0.pom
+2019-07-27 12:29:38,129 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:38,503 [New I/O client worker #144-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/coreapi/2.5.0/coreapi-2.5.0.jar
+2019-07-27 12:29:38,508 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\coreapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.5.0\coreapi-2.5.0.jar
+2019-07-27 12:29:38,632 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1409924971813749539.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.5.0\coreapi-2.5.0.pom
+2019-07-27 12:29:38,637 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:40,005 [New I/O client worker #145-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataadapterapi/2.5.0/dataadapterapi-2.5.0.jar
+2019-07-27 12:29:40,011 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\dataadapterapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.5.0\dataadapterapi-2.5.0.jar
+2019-07-27 12:29:40,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7962240182465169028.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.5.0\dataadapterapi-2.5.0.pom
+2019-07-27 12:29:40,095 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:40,528 [New I/O client worker #146-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dteapi/2.5.0/dteapi-2.5.0.jar
+2019-07-27 12:29:40,537 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\dteapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.5.0\dteapi-2.5.0.jar
+2019-07-27 12:29:40,623 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4004120915091307033.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.5.0\dteapi-2.5.0.pom
+2019-07-27 12:29:40,628 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:40,991 [New I/O client worker #147-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/engineapi/2.5.0/engineapi-2.5.0.jar
+2019-07-27 12:29:41,000 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\engineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.5.0\engineapi-2.5.0.jar
+2019-07-27 12:29:41,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5367188297645238713.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.5.0\engineapi-2.5.0.pom
+2019-07-27 12:29:41,096 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:41,443 [New I/O client worker #148-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/modelapi/2.5.0/modelapi-2.5.0.jar
+2019-07-27 12:29:41,449 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\modelapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.5.0\modelapi-2.5.0.jar
+2019-07-27 12:29:41,566 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall371344750837065529.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.5.0\modelapi-2.5.0.pom
+2019-07-27 12:29:41,571 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:51,579 [New I/O client boss #149] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/scriptapi/2.5.0/scriptapi-2.5.0.jar
+2019-07-27 12:29:51,597 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\scriptapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.5.0\scriptapi-2.5.0.jar
+2019-07-27 12:29:51,680 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4951836944295171140.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.5.0\scriptapi-2.5.0.pom
+2019-07-27 12:29:51,684 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:52,050 [New I/O client worker #150-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/viewservlets/2.5.0/viewservlets-2.5.0.jar
+2019-07-27 12:29:52,056 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\viewservlets.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.5.0\viewservlets-2.5.0.jar
+2019-07-27 12:29:52,162 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8092544753930533695.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.5.0\viewservlets-2.5.0.pom
+2019-07-27 12:29:52,168 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:52,535 [New I/O client worker #151-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/crosstabcoreapi/2.5.0/crosstabcoreapi-2.5.0.jar
+2019-07-27 12:29:52,544 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\crosstabcoreapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\crosstabcoreapi\2.5.0\crosstabcoreapi-2.5.0.jar
+2019-07-27 12:29:52,603 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7405499305228776384.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\crosstabcoreapi\2.5.0\crosstabcoreapi-2.5.0.pom
+2019-07-27 12:29:52,608 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:52,959 [New I/O client worker #152-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataaggregationapi/2.5.0/dataaggregationapi-2.5.0.jar
+2019-07-27 12:29:52,965 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\dataaggregationapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataaggregationapi\2.5.0\dataaggregationapi-2.5.0.jar
+2019-07-27 12:29:53,283 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1054264696996901585.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataaggregationapi\2.5.0\dataaggregationapi-2.5.0.pom
+2019-07-27 12:29:53,292 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:53,668 [New I/O client worker #153-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/modelodaapi/2.5.0/modelodaapi-2.5.0.jar
+2019-07-27 12:29:53,675 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\modelodaapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelodaapi\2.5.0\modelodaapi-2.5.0.jar
+2019-07-27 12:29:53,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6312779589042967677.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelodaapi\2.5.0\modelodaapi-2.5.0.pom
+2019-07-27 12:29:53,808 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:54,159 [New I/O client worker #154-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/odadesignapi/2.5.0/odadesignapi-2.5.0.jar
+2019-07-27 12:29:54,167 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\odadesignapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\odadesignapi\2.5.0\odadesignapi-2.5.0.jar
+2019-07-27 12:29:54,235 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1502692188118610498.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\odadesignapi\2.5.0\odadesignapi-2.5.0.pom
+2019-07-27 12:29:54,240 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:54,595 [New I/O client worker #155-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataextraction/2.5.0/dataextraction-2.5.0.jar
+2019-07-27 12:29:54,604 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\dataextraction.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataextraction\2.5.0\dataextraction-2.5.0.jar
+2019-07-27 12:29:54,679 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall493891671677101722.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataextraction\2.5.0\dataextraction-2.5.0.pom
+2019-07-27 12:29:54,684 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:55,248 [New I/O client worker #156-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/emitterconfig/2.5.0/emitterconfig-2.5.0.jar
+2019-07-27 12:29:55,255 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\emitterconfig.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\emitterconfig\2.5.0\emitterconfig-2.5.0.jar
+2019-07-27 12:29:55,644 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall9070662334455867559.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\emitterconfig\2.5.0\emitterconfig-2.5.0.pom
+2019-07-27 12:29:55,647 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:56,014 [New I/O client worker #157-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/chartengineapi/2.5.2/chartengineapi-2.5.2.jar
+2019-07-27 12:29:56,020 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\chartengineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.5.2\chartengineapi-2.5.2.jar
+2019-07-27 12:29:56,121 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall420845971149306217.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartengineapi\2.5.2\chartengineapi-2.5.2.pom
+2019-07-27 12:29:56,127 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:56,959 [New I/O client worker #158-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/chartitemapi/2.5.2/chartitemapi-2.5.2.jar
+2019-07-27 12:29:56,966 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\chartitemapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartitemapi\2.5.2\chartitemapi-2.5.2.jar
+2019-07-27 12:29:57,230 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall162967191462481499.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\chartitemapi\2.5.2\chartitemapi-2.5.2.pom
+2019-07-27 12:29:57,242 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:57,596 [New I/O client worker #159-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/coreapi/2.5.2/coreapi-2.5.2.jar
+2019-07-27 12:29:57,602 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\coreapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.5.2\coreapi-2.5.2.jar
+2019-07-27 12:29:57,696 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5906747176674380923.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\coreapi\2.5.2\coreapi-2.5.2.pom
+2019-07-27 12:29:57,700 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:58,050 [New I/O client worker #160-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataadapterapi/2.5.2/dataadapterapi-2.5.2.jar
+2019-07-27 12:29:58,056 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\dataadapterapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.5.2\dataadapterapi-2.5.2.jar
+2019-07-27 12:29:58,161 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3619969850313666559.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataadapterapi\2.5.2\dataadapterapi-2.5.2.pom
+2019-07-27 12:29:58,165 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:58,510 [New I/O client worker #161-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dteapi/2.5.2/dteapi-2.5.2.jar
+2019-07-27 12:29:58,519 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\dteapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.5.2\dteapi-2.5.2.jar
+2019-07-27 12:29:58,604 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7692249608262834758.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dteapi\2.5.2\dteapi-2.5.2.pom
+2019-07-27 12:29:58,608 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:58,961 [New I/O client worker #162-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/engineapi/2.5.2/engineapi-2.5.2.jar
+2019-07-27 12:29:58,967 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\engineapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.5.2\engineapi-2.5.2.jar
+2019-07-27 12:29:59,089 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall9054827890926048636.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\engineapi\2.5.2\engineapi-2.5.2.pom
+2019-07-27 12:29:59,094 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:59,453 [New I/O client worker #163-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/modelapi/2.5.2/modelapi-2.5.2.jar
+2019-07-27 12:29:59,458 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\modelapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.5.2\modelapi-2.5.2.jar
+2019-07-27 12:29:59,539 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall1719054820631937565.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelapi\2.5.2\modelapi-2.5.2.pom
+2019-07-27 12:29:59,548 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:29:59,916 [New I/O client worker #164-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/scriptapi/2.5.2/scriptapi-2.5.2.jar
+2019-07-27 12:29:59,923 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\scriptapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.5.2\scriptapi-2.5.2.jar
+2019-07-27 12:30:00,015 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3003853921175523158.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\scriptapi\2.5.2\scriptapi-2.5.2.pom
+2019-07-27 12:30:00,020 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:00,505 [New I/O client worker #165-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/viewservlets/2.5.2/viewservlets-2.5.2.jar
+2019-07-27 12:30:00,511 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\viewservlets.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.5.2\viewservlets-2.5.2.jar
+2019-07-27 12:30:00,588 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4119509476910223487.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\viewservlets\2.5.2\viewservlets-2.5.2.pom
+2019-07-27 12:30:00,594 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:00,945 [New I/O client worker #166-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/crosstabcoreapi/2.5.2/crosstabcoreapi-2.5.2.jar
+2019-07-27 12:30:00,951 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\crosstabcoreapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\crosstabcoreapi\2.5.2\crosstabcoreapi-2.5.2.jar
+2019-07-27 12:30:01,220 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall6650771235806836704.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\crosstabcoreapi\2.5.2\crosstabcoreapi-2.5.2.pom
+2019-07-27 12:30:01,224 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:01,584 [New I/O client worker #167-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataaggregationapi/2.5.2/dataaggregationapi-2.5.2.jar
+2019-07-27 12:30:01,590 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\dataaggregationapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataaggregationapi\2.5.2\dataaggregationapi-2.5.2.jar
+2019-07-27 12:30:01,680 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2312609780096828401.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataaggregationapi\2.5.2\dataaggregationapi-2.5.2.pom
+2019-07-27 12:30:01,685 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:02,068 [New I/O client worker #168-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/modelodaapi/2.5.2/modelodaapi-2.5.2.jar
+2019-07-27 12:30:02,075 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\modelodaapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelodaapi\2.5.2\modelodaapi-2.5.2.jar
+2019-07-27 12:30:02,150 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8941314780857144312.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\modelodaapi\2.5.2\modelodaapi-2.5.2.pom
+2019-07-27 12:30:02,155 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:02,536 [New I/O client worker #169-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/odadesignapi/2.5.2/odadesignapi-2.5.2.jar
+2019-07-27 12:30:02,542 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\odadesignapi.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\odadesignapi\2.5.2\odadesignapi-2.5.2.jar
+2019-07-27 12:30:02,615 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall4883222436459676135.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\odadesignapi\2.5.2\odadesignapi-2.5.2.pom
+2019-07-27 12:30:02,619 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:02,991 [New I/O client worker #170-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/dataextraction/2.5.2/dataextraction-2.5.2.jar
+2019-07-27 12:30:02,998 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\dataextraction.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataextraction\2.5.2\dataextraction-2.5.2.jar
+2019-07-27 12:30:03,094 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2829463362959621208.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\dataextraction\2.5.2\dataextraction-2.5.2.pom
+2019-07-27 12:30:03,098 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:03,486 [New I/O client worker #171-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse-reports/emitterconfig/2.5.2/emitterconfig-2.5.2.jar
+2019-07-27 12:30:03,493 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5.2\emitterconfig.jar to C:\Users\Administrator\.m2\repository\myeclipse-reports\emitterconfig\2.5.2\emitterconfig-2.5.2.jar
+2019-07-27 12:30:03,591 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall2489426320379096471.pom to C:\Users\Administrator\.m2\repository\myeclipse-reports\emitterconfig\2.5.2\emitterconfig-2.5.2.pom
+2019-07-27 12:30:03,596 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:03,958 [New I/O client worker #172-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.common/2.5.0/org.eclipse.emf.common-2.5.0.jar
+2019-07-27 12:30:03,969 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\org.eclipse.emf.common_2.5.0.v200906151043.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.common\2.5.0\org.eclipse.emf.common-2.5.0.jar
+2019-07-27 12:30:04,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8843274084830570432.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.common\2.5.0\org.eclipse.emf.common-2.5.0.pom
+2019-07-27 12:30:04,067 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:04,467 [New I/O client worker #173-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.ecore/2.5.0/org.eclipse.emf.ecore-2.5.0.jar
+2019-07-27 12:30:04,473 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\org.eclipse.emf.ecore_2.5.0.v200906151043.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore\2.5.0\org.eclipse.emf.ecore-2.5.0.jar
+2019-07-27 12:30:04,615 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall3824113097476473682.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore\2.5.0\org.eclipse.emf.ecore-2.5.0.pom
+2019-07-27 12:30:04,619 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:04,979 [New I/O client worker #174-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/myeclipse/org.eclipse.emf.ecore.xmi/2.5.0/org.eclipse.emf.ecore.xmi-2.5.0.jar
+2019-07-27 12:30:04,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\configuration\org.eclipse.osgi\bundles\124\1\.cp\data\2.5\org.eclipse.emf.ecore.xmi_2.5.0.v200906151043.jar to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore.xmi\2.5.0\org.eclipse.emf.ecore.xmi-2.5.0.jar
+2019-07-27 12:30:05,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5807843080695160256.pom to C:\Users\Administrator\.m2\repository\myeclipse\org.eclipse.emf.ecore.xmi\2.5.0\org.eclipse.emf.ecore.xmi-2.5.0.pom
+2019-07-27 12:30:05,067 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:05,436 [New I/O client worker #175-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-multipart/1.0.3.1/jersey-multipart-1.0.3.1.jar
+2019-07-27 12:30:05,441 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.ws_11.5.0.me201311281640\lib\jersey\1.0\jersey-multipart-1.0.3.1.jar to C:\Users\Administrator\.m2\repository\com\sun\jersey\jersey-multipart\1.0.3.1\jersey-multipart-1.0.3.1.jar
+2019-07-27 12:30:05,566 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7113773572881874465.pom to C:\Users\Administrator\.m2\repository\com\sun\jersey\jersey-multipart\1.0.3.1\jersey-multipart-1.0.3.1.pom
+2019-07-27 12:30:05,571 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:05,943 [New I/O client worker #176-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-multipart/1.4/jersey-multipart-1.4.jar
+2019-07-27 12:30:05,949 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.ws_11.5.0.me201311281640\lib\jersey\1.4\jersey-multipart-1.4.jar to C:\Users\Administrator\.m2\repository\com\sun\jersey\jersey-multipart\1.4\jersey-multipart-1.4.jar
+2019-07-27 12:30:06,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall8711260792155935820.pom to C:\Users\Administrator\.m2\repository\com\sun\jersey\jersey-multipart\1.4\jersey-multipart-1.4.pom
+2019-07-27 12:30:06,198 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:06,543 [New I/O client worker #177-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/webservices-extra/1.1/webservices-extra-1.1.jar
+2019-07-27 12:30:06,554 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.ws.xfire_11.5.0.me201311050147\lib\webservices-extra.jar to C:\Users\Administrator\.m2\repository\com\sun\webservices-extra\1.1\webservices-extra-1.1.jar
+2019-07-27 12:30:06,682 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall5484684571342607885.pom to C:\Users\Administrator\.m2\repository\com\sun\webservices-extra\1.1\webservices-extra-1.1.pom
+2019-07-27 12:30:06,686 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-27 12:30:07,064 [New I/O client worker #178-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/webservices-rt/1.1/webservices-rt-1.1.jar
+2019-07-27 12:30:07,070 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing D:\soft\myeclipse\plugins\com.genuitec.eclipse.ws.xfire_11.5.0.me201311050147\lib\webservices-rt.jar to C:\Users\Administrator\.m2\repository\com\sun\webservices-rt\1.1\webservices-rt-1.1.jar
+2019-07-27 12:30:07,216 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing C:\Users\ADMINI~1\AppData\Local\Temp\mvninstall7898246524593761009.pom to C:\Users\Administrator\.m2\repository\com\sun\webservices-rt\1.1\webservices-rt-1.1.pom
+2019-07-27 12:30:08,619 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated local repository index
+2019-07-27 12:34:22,495 [Worker-2] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|http://repo.maven.apache.org/maven2
+java.io.IOException: null
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.checkError(AsyncFetcher.java:251) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.read(AsyncFetcher.java:259) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at java.io.PipedInputStream.read(PipedInputStream.java:378) ~[na:1.7.0_45]
+	at java.io.InputStream.read(InputStream.java:101) ~[na:1.7.0_45]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:188) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:174) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.FileUtils.copyStreamToFile(FileUtils.java:1143) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:700) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:844) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1237) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1192) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:707) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+java.util.concurrent.CancellationException: null
+	at com.ning.http.client.providers.netty.NettyResponseFuture.cancel(NettyResponseFuture.java:154) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher.cancel(AsyncFetcher.java:92) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.checkCancelled(AsyncFetcher.java:274) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.onStatus(AsyncFetcher.java:279) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.fireStatus(SimpleAsyncHttpClient.java:828) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.onStatusReceived(SimpleAsyncHttpClient.java:779) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.updateStatusAndInterrupt(NettyAsyncHttpProvider.java:1587) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.messageReceived(NettyAsyncHttpProvider.java:1242) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.stream.ChunkedWriteHandler.handleUpstream(ChunkedWriteHandler.java:149) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpContentDecoder.messageReceived(HttpContentDecoder.java:104) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:302) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.unfoldAndFireMessageReceived(ReplayingDecoder.java:522) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.callDecode(ReplayingDecoder.java:506) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.messageReceived(ReplayingDecoder.java:443) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpClientCodec.handleUpstream(HttpClientCodec.java:77) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:274) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:261) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:349) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200) ~[na:na]
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108) ~[na:na]
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:44) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_45]
+	at java.lang.Thread.run(Thread.java:744) ~[na:1.7.0_45]
+2019-07-28 08:49:36,669 [main] INFO  c.g.e.m.h.c.ui.Html5AppCoreUIPlugin - Pluging started
+2019-07-28 08:49:41,625 [Worker-0] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2019-07-28 08:49:41,901 [Worker-0] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-07-28 08:59:08,270 [Worker-0] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|http://repo.maven.apache.org/maven2
+java.io.IOException: null to http://repo.maven.apache.org/maven2/.index/nexus-maven-repository-index.zip
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.checkError(AsyncFetcher.java:251) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.read(AsyncFetcher.java:257) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at java.io.PipedInputStream.read(PipedInputStream.java:378) ~[na:1.7.0_45]
+	at java.io.InputStream.read(InputStream.java:101) ~[na:1.7.0_45]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:188) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:174) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.FileUtils.copyStreamToFile(FileUtils.java:1143) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:700) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:844) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1237) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1192) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:707) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: java.net.ConnectException: null to http://repo.maven.apache.org/maven2/.index/nexus-maven-repository-index.zip
+	at com.ning.http.client.providers.netty.NettyConnectListener.operationComplete(NettyConnectListener.java:95) ~[async-http-client-1.6.5.jar:na]
+	at org.jboss.netty.channel.DefaultChannelFuture.notifyListener(DefaultChannelFuture.java:381) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelFuture.addListener(DefaultChannelFuture.java:148) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.doConnect(NettyAsyncHttpProvider.java:945) ~[async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.execute(NettyAsyncHttpProvider.java:776) ~[async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.AsyncHttpClient.executeRequest(AsyncHttpClient.java:484) ~[async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.SimpleAsyncHttpClient.execute(SimpleAsyncHttpClient.java:285) ~[async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.SimpleAsyncHttpClient.get(SimpleAsyncHttpClient.java:202) ~[async-http-client-1.6.5.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher.retrieve(AsyncFetcher.java:203) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	... 8 common frames omitted
+Caused by: java.nio.channels.UnresolvedAddressException: null
+	at sun.nio.ch.Net.checkAddress(Net.java:127) ~[na:1.7.0_45]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:640) ~[na:1.7.0_45]
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink.connect(NioClientSocketPipelineSink.java:140) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink.eventSunk(NioClientSocketPipelineSink.java:103) ~[na:na]
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:60) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpClientCodec.handleDownstream(HttpClientCodec.java:82) ~[na:na]
+	at org.jboss.netty.handler.stream.ChunkedWriteHandler.handleDownstream(ChunkedWriteHandler.java:115) ~[na:na]
+	at org.jboss.netty.channel.Channels.connect(Channels.java:541) ~[na:na]
+	at org.jboss.netty.channel.AbstractChannel.connect(AbstractChannel.java:210) ~[na:na]
+	at org.jboss.netty.bootstrap.ClientBootstrap.connect(ClientBootstrap.java:227) ~[na:na]
+	at org.jboss.netty.bootstrap.ClientBootstrap.connect(ClientBootstrap.java:188) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.doConnect(NettyAsyncHttpProvider.java:902) ~[async-http-client-1.6.5.jar:na]
+	... 13 common frames omitted
+2019-08-01 09:14:18,751 [main] INFO  c.g.e.m.h.c.ui.Html5AppCoreUIPlugin - Pluging started
+2019-08-01 09:14:23,303 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2019-08-01 09:14:23,531 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2019-08-01 09:18:24,883 [Worker-3] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|http://repo.maven.apache.org/maven2
+java.io.IOException: Server returned status code 404: Not Found
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.checkError(AsyncFetcher.java:251) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.read(AsyncFetcher.java:259) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at java.io.PipedInputStream.read(PipedInputStream.java:378) ~[na:1.7.0_45]
+	at java.io.InputStream.read(InputStream.java:101) ~[na:1.7.0_45]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:188) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:174) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.FileUtils.copyStreamToFile(FileUtils.java:1143) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:700) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:844) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1237) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1192) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:707) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+java.io.IOException: Server returned status code 404: Not Found
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.onStatus(AsyncFetcher.java:281) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.fireStatus(SimpleAsyncHttpClient.java:828) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.onStatusReceived(SimpleAsyncHttpClient.java:779) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.updateStatusAndInterrupt(NettyAsyncHttpProvider.java:1587) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.messageReceived(NettyAsyncHttpProvider.java:1242) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.stream.ChunkedWriteHandler.handleUpstream(ChunkedWriteHandler.java:149) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpContentDecoder.messageReceived(HttpContentDecoder.java:104) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:302) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.unfoldAndFireMessageReceived(ReplayingDecoder.java:522) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.callDecode(ReplayingDecoder.java:506) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.messageReceived(ReplayingDecoder.java:443) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpClientCodec.handleUpstream(HttpClientCodec.java:77) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:274) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:261) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:349) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200) ~[na:na]
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108) ~[na:na]
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:44) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_45]
+	at java.lang.Thread.run(Thread.java:744) ~[na:1.7.0_45]

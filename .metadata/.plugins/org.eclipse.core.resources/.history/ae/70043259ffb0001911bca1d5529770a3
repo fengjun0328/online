@@ -1,0 +1,20 @@
+package cn.bdqn.pojo;
+
+public class Order {
+	
+	public String name;// 订餐人名称
+	public String dishMeg; // 所选菜品
+	public int time ; // 送餐时间
+	public String addresse; // 送餐地址
+	public int state; // 订单状态： 0：已预定 1：已完成
+	public double sumPrice; // 总金额
+	
+	public void show(){
+		System.out.println("Order [name=" + name + ", dishMeg=" + dishMeg + ", time="
+				+ time + ", addresse=" + addresse + ", state=" + state
+				+ ", sumPrice=" + sumPrice + "]");
+	}
+
+	
+	
+}
