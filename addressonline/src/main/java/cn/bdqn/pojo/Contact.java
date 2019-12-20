@@ -1,6 +1,7 @@
 package cn.bdqn.pojo;
 
 public class Contact {
+<<<<<<< HEAD
 	private Long id;
 	private String cname;
 	private String mobile;
@@ -45,4 +46,6 @@ public class Contact {
 	}
 	
 
+=======
+>>>>>>> user
 }
