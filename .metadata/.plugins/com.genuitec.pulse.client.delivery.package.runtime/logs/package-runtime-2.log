@@ -1,2 +1,372 @@
-七月 27, 2019 12:27:55 下午 com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
-信息: Package starting up at Sat Jul 27 12:27:55 CST 2019
+十二月 14, 2019 8:43:50 上午 com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+信息: Package starting up at Sat Dec 14 08:43:50 CST 2019
+十二月 14, 2019 8:43:52 上午 com.genuitec.pulse.client.deliverypackage.runtime.UpdatesService checkForWorkspaceUpdates
+信息: Latest version of package has already been enabled in the workspace; check finished in 10ms
+十二月 14, 2019 8:43:56 上午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ssh_187_01/src/applicationContext.xml]
+十二月 14, 2019 8:43:58 上午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ssm_0001/resources/applicationContext.xml]
+十二月 14, 2019 2:09:38 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:09:53 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:10:18 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:10:20 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:10:34 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:10:46 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:10:46 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:12:47 下午 org.hibernate.cfg.Environment <clinit>
+信息: Hibernate 3.2.5
+十二月 14, 2019 2:12:47 下午 org.hibernate.cfg.Environment <clinit>
+信息: hibernate.properties not found
+十二月 14, 2019 2:12:47 下午 org.hibernate.cfg.Environment buildBytecodeProvider
+信息: Bytecode provider name : cglib
+十二月 14, 2019 2:12:47 下午 org.hibernate.cfg.Environment <clinit>
+信息: using JDK 1.4 java.sql.Timestamp handling
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.Configuration configure
+信息: configuring from XML document
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.Configuration doConfigure
+信息: Configured SessionFactory: null
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: RDBMS: MySQL, version: 5.0.67-community-nt
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: JDBC driver: MySQL Connector Java, version: mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Automatic flush during beforeCompletion(): disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Automatic session close at end of transaction: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: JDBC batch size: 15
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: JDBC batch updates for versioned data: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Scrollable result sets: enabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: JDBC3 getGeneratedKeys(): enabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Connection release mode: auto
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Maximum outer join fetch depth: 2
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Default batch fetch size: 1
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Generate SQL with comments: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Order SQL updates by primary key: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Order SQL inserts for batching: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory createQueryTranslatorFactory
+信息: Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Query language substitutions: {}
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: JPA-QL strict compliance: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Second-level cache: enabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Query cache: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory createCacheProvider
+信息: Cache provider: org.hibernate.cache.NoCacheProvider
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Optimize cache for minimal puts: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Structured second-level cache entries: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Statistics: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Deleted entity synthetic identifier rollback: disabled
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Default entity-mode: pojo
+十二月 14, 2019 2:13:08 下午 org.hibernate.cfg.SettingsFactory buildSettings
+信息: Named query checking : enabled
+十二月 14, 2019 2:15:57 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:15:57 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:16:16 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:16:16 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:16:38 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:16:38 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:16:57 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:16:57 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:17:03 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:17:03 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:18:16 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:18:16 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:19:20 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:19:20 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:19:37 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:19:37 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:19:50 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:19:50 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:20:07 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:20:09 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:21:07 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:23:06 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:24:50 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:25:11 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:25:45 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:26:08 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:27:15 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:28:21 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:28:47 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:29:06 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:29:13 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:30:41 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:31:12 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:31:22 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:33:09 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:33:27 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:35:53 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:35:54 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:36:45 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:36:46 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:37:00 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:37:00 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:39:19 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:39:19 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:40:10 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:40:10 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:40:43 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:40:44 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:40:59 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:40:59 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:41:06 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:41:07 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:41:43 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:41:43 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:41:52 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:41:52 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:51:18 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:51:18 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:54:43 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:54:43 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:54:59 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:55:00 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:56:02 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:56:03 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 2:56:15 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 2:56:15 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:07:39 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:07:39 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:07:52 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:07:52 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:08:33 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:08:33 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:09:29 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:09:29 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:09:51 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:09:52 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:10:14 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:10:15 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:10:21 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:10:21 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:10:38 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:10:38 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:10:57 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:10:57 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:11:05 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:11:05 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:11:32 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:11:32 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:11:35 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:11:35 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:11:47 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:11:47 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:12:28 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:12:28 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:12:49 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:12:50 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:12:58 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:12:59 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:13:02 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:13:02 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:13:26 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:13:26 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:13:33 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:13:33 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:13:44 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:13:44 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:13:46 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:13:47 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:14:28 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:14:29 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:16:41 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:16:41 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:16:53 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:16:53 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:17:07 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:17:07 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:18:05 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:18:05 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:18:36 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:18:36 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:18:48 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:18:48 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:23:51 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:23:51 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:24:59 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:24:59 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:25:51 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:25:52 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:25:54 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:25:55 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:26:45 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:26:45 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:28:39 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:28:39 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 3:28:48 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 3:28:48 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 4:12:46 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 4:23:56 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 4:23:57 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 4:33:19 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 4:33:19 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]
+十二月 14, 2019 4:33:41 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/springmvc-servlet.xml]
+十二月 14, 2019 4:33:42 下午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [D:/java_demo/ShopManagement/resources/applicationContext.xml]

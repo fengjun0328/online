@@ -5,5 +5,5 @@ import cn.bdqn.pojo.Contact;
 import java.util.List;
 
 public interface ContactMapper {
-    List<Contact> findContact(String cname);
+    List<Contact> findContacts(String cname);
 }

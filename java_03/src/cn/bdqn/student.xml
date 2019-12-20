@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students[
+        <!ELEMENT students (student+)>
+        <!ELEMENT student (name, sex ,age)>
+        <!ATTLIST student id CDATA #IMPLIED>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT sex (#PCDATA)>
+        <!ELEMENT age (#PCDATA)>]>
+
+<students>
+    <student id="1001">
+        <name>刘程鹏</name>
+        <sex>女</sex>
+        <age>18</age>
+    </student>
+    <student id="1002">
+        <name>李林星</name>
+        <sex>女</sex>
+        <age>18</age>
+    </student>
+</students>
